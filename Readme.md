@@ -1,4 +1,4 @@
-#FixMyStreet Meta Categories
+# FixMyStreet Meta Categories
 
 FixMyStreet uses different category names in different local authorities to match the internal descriptions used by the local authority. 
 
