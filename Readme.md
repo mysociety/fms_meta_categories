@@ -6,9 +6,9 @@ For analysis across areas, category names have to be combined. This repository c
 
 The SHEF categories were created by Elvis Nyanzu in 2018. 
 
-SHEF_A - 94 Categories
-SHEF_B - 29 Categories
-SHEF_C - 8 Categories
+* SHEF_A - 94 Categories
+* SHEF_B - 29 Categories
+* SHEF_C - 8 Categories
 
 These are not stackable - e.g. some base categories that have the same SHEF_B might not have the same SHEF_C.  
 
