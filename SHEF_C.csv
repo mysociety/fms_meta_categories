@@ -356,11 +356,11 @@ Traffic lights & signals,Road Safety & Defects,C7
 Traffic Lights (permanent only),Road Safety & Defects,C7
 Traffic Lights (temporary only),Road Safety & Defects,C7
 Zebra crossing,Road Safety & Defects,C7
-Abandoned car,Vehicles,C8
-Abandoned vehicle,Vehicles,C8
-Abandoned Vehicle,Vehicles,C8
-Abandoned vehicles,Vehicles,C8
-Abandoned Vehicles,Vehicles,C8
+Abandoned car,Abandoned Vehicles & Parking,C8
+Abandoned vehicle,Abandoned Vehicles & Parking,C8
+Abandoned Vehicle,Abandoned Vehicles & Parking,C8
+Abandoned vehicles,Abandoned Vehicles & Parking,C8
+Abandoned Vehicles,Abandoned Vehicles & Parking,C8
 Bad Parking,Abandoned Vehicles & Parking,C8
 Car Park Barrier / Equipment,Abandoned Vehicles & Parking,C8
 Car parking,Abandoned Vehicles & Parking,C8
