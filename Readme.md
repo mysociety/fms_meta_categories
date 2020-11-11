@@ -14,6 +14,13 @@ These are not stackable - e.g. some base categories that have the same SHEF_B mi
 
 The purpose of this repository is to allow these lookups to be updated as new FixMyStreet categories are created - and to reduce the work needed to create differently focused lookups. 
 
+## Update process
+
+Update SHEF_A.csv with new categories, and then run `convert_categories.py`. This will fill in most of the categories for B and C. 
+
+The `missing` process in the FMS exporter will export the current missing categories against this repo included as a submodule.
+
+
 ## C-level Category Groupings
 
 * Road Safety & Defects - Relates to things like potholes, roadworks, street lights, road markings, gritting and other carriageway defects

@@ -30,12 +30,12 @@ def combine():
             row.append(lookup[t].get(n, ""))
         all.add(row)
 
-    all.save([root, "full_table.csv"])
+    all.save([root, "full_table.csv"], force_unicode=True)
 
 
 def find_clean_mapping():
 
-    qg = QuickGrid().open([root, "full_table.csv"])
+    qg = QuickGrid().open([root, "full_table.csv"], force_unicode=True)
     for t in 'bc':
         map = QuickGrid(header=["a", t])
         for g, q in qg.split_on_unique('a'):
@@ -43,12 +43,12 @@ def find_clean_mapping():
             if len(a_items) == 1:
                 pass
                 map.add([g, a_items[0]])
-        map.save([root, "clean_a_to_{0}.csv".format(t)])
+        map.save([root, "clean_a_to_{0}.csv".format(t)], force_unicode=True)
 
 
 def fill_in_combined():
 
-    combined = QuickGrid().open([root, "full_table.csv"])
+    combined = QuickGrid().open([root, "full_table.csv"], force_unicode=True)
 
     for t in 'bc':
         count = 0
@@ -63,7 +63,7 @@ def fill_in_combined():
                     count += 1
         print("for {0}, {1}/{2} filled in".format(t, count, total))
 
-    combined.save()
+    combined.save(force_unicode=True)
 
 
 def generate_code_lookups():
@@ -77,7 +77,7 @@ def generate_code_lookups():
                 lookup.add([r[1], r[2]])
                 done.append(r[2])
         lookup.data.sort(key=lambda x: int(x[1][1:]))
-        lookup.save([root, "CODES_SHEF_{0}.csv".format(a)])
+        lookup.save([root, "CODES_SHEF_{0}.csv".format(a)], force_unicode=True)
 
 
 def create_lookups_from_combined():
@@ -89,12 +89,14 @@ def create_lookups_from_combined():
         lookup = QuickGrid(header=["category", "SHEF_{0}".format(t), "SHEF_{0}_CODE".format(t)])
         for r in combined:
             category = r[t].strip()
-            cat_code = code[category]
-            lookup.add([r[0], category, cat_code])
-        lookup.save([root, "SHEF_{0}.csv".format(t)])
+            if category:
+                cat_code = code[category]
+                lookup.add([r[0], category, cat_code])
+        lookup.save([root, "SHEF_{0}.csv".format(t)], force_unicode=True)
 
 if __name__ == "__main__":
-    create_lookups_from_combined()
+    combine()
     generate_code_lookups()
     find_clean_mapping()
     fill_in_combined()
+    create_lookups_from_combined()

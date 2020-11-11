@@ -1,829 +1,1099 @@
 category,SHEF_B,SHEF_B_CODE
-Zebra crossing,Road Safety,B24
-Damage to grass verges,Road Safety,B24
-Verges - Damaged by Vehicles,Road Safety,B24
-Soft Verge Damaged/Overrun,Road Safety,B24
-Vehicle Access (Assets),Right of Way,B23
-Vehicle Barrier Issue,Right of Way,B23
-Vehicle Access,Right of Way,B23
-Utility equipment,Utility Works,B29
-Utlility Covers,Utility Works,B29
-Utility Works and Manhole Covers,Utility Works,B29
-Utility Issue,Utility Works,B29
-Utilities,Utility Works,B29
-Utility Works and Manhole Covers (Street,Utility Works,B29
-Utility cabinets,Utility Works,B29
-Utility Work,Utility Works,B29
-Utility Works and Manhole Covers (Streetworks),Utility Works,B29
-Utility Box/ cover damaged,Utility Works,B29
-Untaxed vehicle,Other,B16
-Trip hazard/uneven surface,Rubbish,B26
-Trip hazard,Rubbish,B26
-Trenches,Utility Works,B29
-Tree or Shrub on a public right of way,Right of Way,B23
-Trees (along Public Rights of Way),Right of Way,B23
-Trees (on sites owned by Three Rivers Di,Right of Way,B23
-Tree or Shrub on a road or footway,Right of Way,B23
-Low hanging branches and general maintenance,Right of Way,B23
-Hedges / trees on rights of way,Right of Way,B23
-Hedges / Trees on road or verge,Right of Way,B23
-Traffic Signals Damaged,Road Safety,B24
-Timing issue,Road Safety,B24
-Traffic Signal Timing (perm),Road Safety,B24
-Traffic sign,Road Safety,B24
-Traffic Signals,Road Safety,B24
-Traffic light,Road Safety,B24
-Traffic lights problem at temporary roadworks,Road Safety,B24
-Traffic light / crossing - timing issues,Road Safety,B24
-Traffic Lights (temporary only),Road Safety,B24
-Traffic lights & signals,Road Safety,B24
-"Traffic lights & crossings problems with buttons, beep or lamps",Road Safety,B24
-Traffic lights & crossings problems with timings,Road Safety,B24
-Traffic Signals Not Working,Road Safety,B24
-Traffic lights,Road Safety,B24
-Traffic Lights (permanent only),Road Safety,B24
-Lamp out (traffic lights),Road Safety,B24
-Traffic signal obstructed by vegetation,Road Safety,B24
-Traffic Light Fault,Road Safety,B24
-Temporary Traffic Signals,Road Safety,B24
-Traffic light / crossing - button/beep/lamp,Road Safety,B24
-Temporary,Road Safety,B24
-Trade Waste Issue,Rubbish,B26
-Business bins left out,Rubbish,B26
-Trade Waste,Rubbish,B26
-To let signs,Other,B16
-Missing/Broken Sign on a public right of way,Right of Way,B23
-Missing/Broken Sign on a public right of,Right of Way,B23
-Signs on a public right of way,Right of Way,B23
-Signs/Cones/Bollards/Barriers,Road Safety,B24
-Road signs,Road Safety,B24
-Bollards or railings,Road Safety,B24
-Signs,Road Safety,B24
-Road Traffic Signs and Road Markings,Road Safety,B24
-Bollards (unlit),Road Safety,B24
-Road Signs and Markings,Road Safety,B24
-Street sign,Road Safety,B24
-Bollards (lit),Road Safety,B24
-Road traffic signs,Road Safety,B24
-Bollard light not working,Road Safety,B24
-Road Sign,Road Safety,B24
-Permanent Traffic Signals/Road Crossings,Road Safety,B24
-Crossing not working,Road Safety,B24
-Road signage,Road Safety,B24
-Pole/signal knocked down,Road Safety,B24
-Fault with temporary traffic signals,Road Safety,B24
-Faulty street sign,Road Safety,B24
-Sign/Pole Damaged,Road Safety,B24
-Missing/ damaged traffic sign,Road Safety,B24
-Signal Failure/Damaged - Toucan/Pelican,Road Safety,B24
-Traffic signal faulty,Road Safety,B24
-Sign/Waymarking - Damaged/Missing,Road Safety,B24
-Safety Bollard - Damaged/Missing,Road Safety,B24
-Traffic Sign obstructed (vegetation),Road Safety,B24
-Sign Twisted/Misaligned,Road Safety,B24
-Request Timing Review,Road Safety,B24
-Safety fence or barrier,Road Safety,B24
-Sign Dirty/Degraded,Road Safety,B24
-Signs and bollards,Road Safety,B24
-Signal Failure,Road Safety,B24
-Signal Failure all out,Road Safety,B24
-Damaged / Missing / Facing Wrong Way,Road Safety,B24
-Safety fences and barriers,Road Safety,B24
-Signal Head Failure,Road Safety,B24
-Illum. Sign Minor Damage,Road Safety,B24
-Attachment Distract/Obstruct,Road Safety,B24
-Crossing running with no pedestrians,Road Safety,B24
-Permanent,Road Safety,B24
-Street washing,Road Safety,B24
-Traffic sign light,Road Safety,B24
-Sign Obstructed: Vegetation,Road Safety,B24
-Sign or road marking missing following works,Road Safety,B24
-Sign Missing/Knocked Down,Road Safety,B24
-Signal Stuck,Road Safety,B24
-Single pothole (less than 30cm wide and 4cm deep),Road Surface Defects,B25
-Single pothole (less than 30cm wide and,Road Surface Defects,B25
-Street nameplates,Street Furniture,B27
-Damaged street nameplate,Street Furniture,B27
-Street Name Plate,Street Furniture,B27
-Damaged street name plates,Street Furniture,B27
-Street Name Plates,Street Furniture,B27
-Street Nameplate Dam./Miss.,Street Furniture,B27
-Street nameplaces,Street Furniture,B27
-Street Nameplate,Street Furniture,B27
-Street nameplate damaged/missing,Street Furniture,B27
-"Street lighting (parks, car parks, open spaces and footpaths)",Street Lights,B28
-Lighting,Street Lights,B28
-Street light on during the day,Street Lights,B28
-Street Lights,Street Lights,B28
-Street light dim,Street Lights,B28
-Street Light,Street Lights,B28
-Single Light out (street light),Street Lights,B28
-Flickering Light,Street Lights,B28
-Faulty street light,Street Lights,B28
-All out - three or more street lights in a row,Street Lights,B28
-1 signal light out,Street Lights,B28
-2 signal lights out,Street Lights,B28
-Light in outside car park,Street Lights,B28
-"Street lighting (parks, car parks and open spaces)",Street Lights,B28
-All out,Street Lights,B28
-Stuck on red,Street Lights,B28
-Lights too bright/ dull,Street Lights,B28
-"Street lighting (parks, car parks, open",Street Lights,B28
-Lamp post,Street Lights,B28
-Street Light Fault,Street Lights,B28
-Street light leaning,Street Lights,B28
-Light on during daylight hours,Street Lights,B28
-Street light wiring exposed,Street Lights,B28
-"Street lighting (parks, car parks and op",Street Lights,B28
-Lamp/Bulb Failure,Street Lights,B28
-All signal lights out,Street Lights,B28
-Streetlight Obscured by Veg,Street Lights,B28
-Light in park or open space,Street Lights,B28
-Street lighting,Street Lights,B28
-Light on during the day,Street Lights,B28
-Street Lighting and Road Signs,Street Lights,B28
-Lamp: Outage (Single Unit),Street Lights,B28
-Illuminated Sign,Street Lights,B28
-Not coming on/ faulty,Street Lights,B28
-Street lighting (on adopted highways),Street Lights,B28
-Iluminated Bollard,Street Lights,B28
-Street light not working,Street Lights,B28
-Street light intermittent,Street Lights,B28
-Street Lights (Electrical),Street Lights,B28
-Road lighting,Street Lights,B28
-Lights out in Pedestrian Subway,Street Lights,B28
-Crash Barriers,Road Safety,B24
-Crash Barriers Damaged/Missing,Road Safety,B24
-Damage to pedestrian guardrail,Road Safety,B24
-Damaged/missing pedestrian guardrail,Road Safety,B24
-Damage: Pedestrian Barrier,Road Safety,B24
-Crash Barriers - Damaged / Missing,Road Safety,B24
-Street furniture,Street Furniture,B27
-Unlit sign knocked down,Street Furniture,B27
-Bollard Out Of Light,Street Furniture,B27
-Bench/ memorial/ cycle hoop damaged or missing,Street Furniture,B27
-Other street furniture,Street Furniture,B27
-Street Furniture Enquiry,Street Furniture,B27
-Damaged bollards/posts,Street Furniture,B27
-unlit bollard knockdown/ missing (non hazardous),Street Furniture,B27
-Traffic bollard,Street Furniture,B27
-Bollard,Street Furniture,B27
-Bench Damaged Hazard,Street Furniture,B27
-Damage to paintwork/ column,Street Furniture,B27
-Column/Post: Paintwork Damage,Street Furniture,B27
-Unlit Bollard Issue Non Hazard,Street Furniture,B27
-unlit bollard knockdown/ missing (hazardous),Street Furniture,B27
-Unlit Bollard Issue Hazardous,Street Furniture,B27
-Bench Damaged NonHazard,Street Furniture,B27
-Street cleaning,Rubbish,B26
-Street,Rubbish,B26
-Street cleaning and litter,Street Furniture,B27
-Street cleansing,Street Furniture,B27
-Street Cleaning Enquiry,Street Furniture,B27
-Hazardous spillage on road,Rubbish,B26
-Oil spillage,Rubbish,B26
-Spillage on the road,Rubbish,B26
-Spill - Oil/Diesel,Rubbish,B26
-Spillage on network,Rubbish,B26
-Spillage On Project Network,Rubbish,B26
-Skip on road/verge,Road Safety,B24
-Skips and scaffolding,Rubbish,B26
-Skips,Rubbish,B26
-Skip problem,Rubbish,B26
-Sign or Marking,Road Safety,B24
-Shopping trolleys,Incivilities,B14
-Shopping Trolley,Incivilities,B14
-Salt bin refill,Gritting,B11
-Salt Bin Request,Gritting,B11
-Salt bin damaged,Gritting,B11
-Rubbish,Rubbish,B26
-Rubbish (refuse and recycling),Rubbish,B26
-Roadworks,Grounds Maintenance,B12
-Road or pavement damage,Road Surface Defects,B25
-Road or pavement defect,Road Surface Defects,B25
-Other street defect,Road Surface Defects,B25
-Road or pavement obstruction,Road Surface Defects,B25
-Damaged Control box,Grounds Maintenance,B12
-Works not complete,Grounds Maintenance,B12
-Winter Maintenance,Grounds Maintenance,B12
-Works crew - way of working,Grounds Maintenance,B12
-Damaged or missing utility cover,Grounds Maintenance,B12
-Problem at other roadworks,Grounds Maintenance,B12
-Timing of proposed works,Grounds Maintenance,B12
-Damaged or missing cover,Grounds Maintenance,B12
-Temp Roadwork Traffic Signals,Grounds Maintenance,B12
-Problem at LCC roadworks,Grounds Maintenance,B12
-Damaged Kerb/Aco/Channel Block,Grounds Maintenance,B12
-Damage to property caused by works,Grounds Maintenance,B12
-Current Roadworks,Grounds Maintenance,B12
-Road Works,Grounds Maintenance,B12
-Works notification letter/leaflet,Grounds Maintenance,B12
-Road works problem,Grounds Maintenance,B12
-Damaged cables,Grounds Maintenance,B12
-Surface Defect on a road or footway,Pavement /Footway Defects,B19
-Unpaved OS CP Surface Issue,Pavement /Footway Defects,B19
-"Damaged Railing, manhole, or drain cover",Road Surface Defects,B25
-Road surface issue,Road Surface Defects,B25
-Road and Pavement Issues,Road Surface Defects,B25
-Damaged/missing boundary markers,Road Surface Defects,B25
-Carriageway Flood Hazardous,Road Surface Defects,B25
-Road surface,Road Surface Defects,B25
-Damaged/missing cats eye,Road Surface Defects,B25
-Damaged Speed Humps,Road Surface Defects,B25
-Carriageway Flood NonHazard,Road Surface Defects,B25
-Carriageway defect,Road Surface Defects,B25
-Roadside safety barrier,Road Surface Defects,B25
-Carriageway,Road Surface Defects,B25
-"Damaged road edge, encroaches more than 100mm",Road Surface Defects,B25
-Damaged road,Road Surface Defects,B25
-Roads and Highways,Road Surface Defects,B25
-Damaged road sign,Road Surface Defects,B25
-Mud / Slippery surface,Road Surface Defects,B25
-Road defect,Road Surface Defects,B25
-Damaged/Loose,Road Surface Defects,B25
-Damaged/missing paving slab,Road Surface Defects,B25
-"Damaged road edge, encroaches less than 100mm",Road Surface Defects,B25
-Surface Defect on a public right of way,Road Surface Defects,B25
-Damage to road,Road Surface Defects,B25
-Collapsed verge,Road Surface Defects,B25
-Visibility at junction or bend,Road Safety,B24
-Road Safety,Road Safety,B24
-Faded road markings,Road Safety,B24
-Worn out road markings,Road Safety,B24
-Signal head turned around,Road Safety,B24
-Road markings,Road Safety,B24
-Lines and Markings (Council Car Park),Road Safety,B24
-Studs/Catseyes Missing/Damaged,Road Safety,B24
-Sign (unlit),Road Safety,B24
-Zebra crossing/ belisha faulty,Road Safety,B24
-White Bar Marking,Road Safety,B24
-Sign (lit),Road Safety,B24
-Road Marking,Road Safety,B24
-Signals stuck on red,Road Safety,B24
-Road Markings - Worn/Faded,Road Safety,B24
-Road markings faded/missing,Road Safety,B24
-Road lines / road markings,Road Safety,B24
-Defective road markings or signs,Road Safety,B24
-Sign light not working,Road Safety,B24
-Road Markings Missing/Faded,Road Safety,B24
-Zebra Crossing Light,Road Safety,B24
-Sign problem,Road Safety,B24
-Footway / carriageway,Right of Way,B23
-Footpaths/ Rights of way (usually not tarmac),Right of Way,B23
-Public Right of Way (including Cycleway),Right of Way,B23
-"Public rights of way, alleyways and brid",Right of Way,B23
-Footpaths/ Rights of way (usually not ta,Right of Way,B23
-Footpaths & rights of way,Right of Way,B23
-Public Rights of Ways,Right of Way,B23
-Rights of way,Right of Way,B23
-Footway or Footpath,Right of Way,B23
-Public footpath or cyclepath,Right of Way,B23
-Fault on public right of way,Right of Way,B23
-Public right of way - problem with access or damage,Right of Way,B23
-Public rights of way,Right of Way,B23
-Footpaths / Carriageway,Right of Way,B23
-Retaining Wall,Retaining Wall,B22
-Recycling (household waste),Rubbish,B26
-Refuse & recycling,Rubbish,B26
-Recycling and waste,Rubbish,B26
-Public Conveniences,Public Toilets,B21
-Public toilets,Public Toilets,B21
-Public toilet,Public Toilets,B21
-Protected trees (in Conservations Areas),Other,B16
-Property damage,Property Damage,B20
-Pothole on a road or footway,Road Surface Defects,B25
-Multiple potholes (various sizes),Road Surface Defects,B25
-Pothole (Council Car Park),Road Surface Defects,B25
-Potholes (large),Road Surface Defects,B25
-Pothole / Surface Defect,Road Surface Defects,B25
-Pothole / Failed Reinstatement,Road Surface Defects,B25
-Pothole or other defect,Road Surface Defects,B25
-Single pothole (more than 30cm wide and 4cm deep),Road Surface Defects,B25
-Pothole on pavement/verge,Road Surface Defects,B25
-Potholes,Road Surface Defects,B25
-Potholes / Highway Condition,Road Surface Defects,B25
-Pothole In CW/FW,Road Surface Defects,B25
-Single pothole (more than 30cm wide and,Road Surface Defects,B25
-Pothole,Road Surface Defects,B25
-Pothole on road/cycleway,Road Surface Defects,B25
-Potholes (smaller than 30cm by 4cm),Road Surface Defects,B25
-Phoenix HA,Other,B16
-Rats,Environmental Health,B8
-Pest Control,Environmental Health,B8
-Kerb not flush / no tactile paving,Pavement /Footway Defects,B19
-Pavement defect,Pavement /Footway Defects,B19
-Pavement Damaged/Cracked,Pavement /Footway Defects,B19
-Pavements/footpaths,Pavement /Footway Defects,B19
 Pavements & kerbs,Pavement /Footway Defects,B19
-Pavements,Pavement /Footway Defects,B19
-Steps Damaged/Uneven,Right of Way,B23
-Belisha Beacon broken,Right of Way,B23
-Countryside Paths / Public Rights of Way (usually not tarmac),Right of Way,B23
-Damaged pavement,Right of Way,B23
-Rotten timber handrails or decking,Right of Way,B23
-Pedestrian Barriers - Damaged / Missing,Right of Way,B23
-Uneven footway,Right of Way,B23
-Pedestrian Barrier Corroded,Right of Way,B23
-Pedestrian guard rail missing/damaged,Right of Way,B23
-Pedestrian Barrier Issue,Right of Way,B23
-Pavement,Right of Way,B23
-Footway Defect,Right of Way,B23
-Pedestrian barrier/ railing damaged,Right of Way,B23
-Damage to kerb,Right of Way,B23
-Slabs - Missing,Right of Way,B23
-Underpass light,Right of Way,B23
-Belisha Beacon Malfunction,Right of Way,B23
-Footway Defect on a road or footway,Right of Way,B23
-Pedestrian railing,Right of Way,B23
-Pavement Defect (uneven surface / cracked paving slab),Right of Way,B23
-Loose / Raised/Sunken,Right of Way,B23
-"Public rights of way, alleyways and bridlepaths",Right of Way,B23
-Missing safety fence,Road Surface Defects,B25
-Rough/Uneven or Surface Issue,Road Surface Defects,B25
-Damage to pavement,Road Surface Defects,B25
-Footpath / pavement problem,Road Surface Defects,B25
-Loose chippings,Road Surface Defects,B25
-Pavement Jetting,Road Surface Defects,B25
-Pavement and road repairs,Road Surface Defects,B25
-Slabs - Uneven / Damaged / Cracked,Road Surface Defects,B25
-Pedestrian wait button not working,Street Furniture,B27
-Car Park Barrier / Equipment,Parking,B18
-Car Parks and ticket machines,Parking,B18
-Parking within pay and display car parks,Parking,B18
-Car parking,Parking,B18
-Car parking issues,Parking,B18
-Illegally parked vehicle,Parking,B18
-Parking queries/reports,Parking,B18
-Poor Parking (Council Car Park),Parking,B18
-Carparks,Parking,B18
-Parking,Parking,B18
-Parking Equipment (Council Car Park),Parking,B18
-Parking on street,Parking,B18
-Parking enforcement,Parking,B18
-Car Park Machine Not Working,Parking,B18
-Car parks (only council run ones),Parking,B18
-Off Street Parking,Parking,B18
-On Street Parking,Parking,B18
-On-street parking,Parking,B18
-Illegal parking,Parking,B18
-Parking/ congestion,Parking,B18
-Enforcement,Parking,B18
-Car parks (council run),Parking,B18
-Council car parks,Parking,B18
-Car parks,Parking,B18
-Bad Parking,Parking,B18
-Public Trees,Overgrown/Fallen Veg/Trees,B17
-Overhanging vegetation,Overgrown/Fallen Veg/Trees,B17
-Tree Pruning Request,Overgrown/Fallen Veg/Trees,B17
-Trees or shrubs blocking visibility,Overgrown/Fallen Veg/Trees,B17
-Trees/Hedges Overhanging Roads Or Footpaths,Overgrown/Fallen Veg/Trees,B17
-Tree/Branch Fallen Non Hazard,Overgrown/Fallen Veg/Trees,B17
-Trees overhanging/obstructing the road or footpath,Overgrown/Fallen Veg/Trees,B17
-Tree Requires Pruning,Overgrown/Fallen Veg/Trees,B17
-Vegetation Encroachment,Overgrown/Fallen Veg/Trees,B17
-Public Tree related issue,Overgrown/Fallen Veg/Trees,B17
-Overhanging Foliage,Overgrown/Fallen Veg/Trees,B17
-Overhanging vegetation from private land,Overgrown/Fallen Veg/Trees,B17
-Trees (on sites owned by Three Rivers District Council),Overgrown/Fallen Veg/Trees,B17
-"Trees in parks, commons and open  spaces",Overgrown/Fallen Veg/Trees,B17
-Tree Wound,Overgrown/Fallen Veg/Trees,B17
-Passage-Obstructed/Overgrown,Overgrown/Fallen Veg/Trees,B17
-Hedge causing obstruction,Overgrown/Fallen Veg/Trees,B17
-Overhanging tree/foliage/bush,Overgrown/Fallen Veg/Trees,B17
-Public tree requires pruning,Overgrown/Fallen Veg/Trees,B17
-Roads and pavement surfaces - Overhanging vegetation,Overgrown/Fallen Veg/Trees,B17
-Trees or shrubs causing obstruction of highway,Overgrown/Fallen Veg/Trees,B17
-Veg Obstructed: Hway Vis,Overgrown/Fallen Veg/Trees,B17
-Tree/branch/hedge - overgrown,Overgrown/Fallen Veg/Trees,B17
-Overgrown tree/hedges,Overgrown/Fallen Veg/Trees,B17
-Restricted Visibility / Overgrown / Overhanging,Overgrown/Fallen Veg/Trees,B17
-Vegetation or Weeds,Overgrown/Fallen Veg/Trees,B17
-Overgrown vegetation,Overgrown/Fallen Veg/Trees,B17
-Veg Impeding FW/CW,Overgrown/Fallen Veg/Trees,B17
-Pests in trees and shrubs,Overgrown/Fallen Veg/Trees,B17
-Roads and pavement surfaces - Overhangin,Overgrown/Fallen Veg/Trees,B17
-Weed spraying,Overgrown/Fallen Veg/Trees,B17
-Obstructive vegetation,Overgrown/Fallen Veg/Trees,B17
-Trees or Vegetation,Overgrown/Fallen Veg/Trees,B17
-Trees and woodland,Overgrown/Fallen Veg/Trees,B17
-Restricted Visibility,Overgrown/Fallen Veg/Trees,B17
-Trees on and near highways and footpaths,Right of Way,B23
-Vegetation Or Weeds on a public right of way,Right of Way,B23
-Trees/Hedges Overhanging Roads Or Footpa,Right of Way,B23
-Trees overhanging/obstructing the road o,Right of Way,B23
-Vegetation or Weeds on a public right of,Right of Way,B23
-Trees overhanging roads/paths,Right of Way,B23
-Vegetation Or Weeds on a verge or open space,Right of Way,B23
-Trees overhanging highways,Right of Way,B23
-Vegetation or Weeds on a verge or open s,Right of Way,B23
-Vegetation on a public right of way,Right of Way,B23
-"Vandalism/disturbance (example, cones moved from works)",Other,B16
-Helpfulness of staff,Other,B16
-Structure Damaged,Other,B16
-Vehicles for sale on the public road,Other,B16
-Complaint,Other,B16
-Livestock,Other,B16
-Unauthorised Attachment,Other,B16
-Dedication Plaque,Other,B16
-Private property,Other,B16
-Damaged/Exposed Wiring / Vandalised,Other,B16
-Skip Licence,Other,B16
-Bad smell,Other,B16
-Door Missing/ open,Other,B16
-Paved OS CP Surface Issue,Other,B16
-Other,Other,B16
-Vandalism,Other,B16
-Alleyway,Other,B16
-Other public road issue,Other,B16
-Unauthorised skip,Other,B16
-CP Ticket Machine NonHazard,Other,B16
-Structure Issue,Other,B16
-Contractor Enquiry/Complaints,Other,B16
-Cleanliness Sub Standard,Other,B16
-Miscellaneous,Other,B16
-Quality/Speed of Service,Other,B16
-Engine idling,Other,B16
-Empty tree Pit,Other,B16
-Accidents,Other,B16
-SL Post Knockdown,Other,B16
-Sponsor a tree,Other,B16
-Hoarding/ scaffold licence,Other,B16
-Other (TfL),Other,B16
-Development Proposal/ advice,Other,B16
-Disagree/ agree with the completed works installed,Other,B16
-Illegal encampments,Other,B16
-Unauthorised shop display,Other,B16
-Damaged structure,Other,B16
-Play area safety issue,Open Spaces/Parks,B15
-Parks/landscapes,Open Spaces/Parks,B15
-Parks and playgrounds,Open Spaces/Parks,B15
-Damaged equipment,Open Spaces/Parks,B15
-Playing Fields,Open Spaces/Parks,B15
-Parks and playing fields,Open Spaces/Parks,B15
-Wheel tracks or ruts,Open Spaces/Parks,B15
-Parks & open spaces,Open Spaces/Parks,B15
-Play Area Issues on a verge or open space,Open Spaces/Parks,B15
-Parks & Green Spaces,Open Spaces/Parks,B15
-Parks and Greenspace,Open Spaces/Parks,B15
-Parks,Open Spaces/Parks,B15
-Play Area Issues on a verge or open spac,Open Spaces/Parks,B15
-Allotment issue,Open Spaces/Parks,B15
-Parks repairs,Open Spaces/Parks,B15
-Playground Equipment,Open Spaces/Parks,B15
-Parks and open spaces,Open Spaces/Parks,B15
-Play Equipment,Open Spaces/Parks,B15
-Park / Open space,Open Spaces/Parks,B15
-Obstruction on road or pavement,Right of Way,B23
-Obstruction on road/cycleway,Right of Way,B23
-Watercourse Block/Obstruction,Right of Way,B23
-Sweeping & Cleansing Hazard,Right of Way,B23
-Obstructions on pavements and roads,Right of Way,B23
-Objects in the road,Right of Way,B23
-Obstruction on public right of way,Right of Way,B23
-"Obstructions (skips, A boards)",Right of Way,B23
-Obstruction,Right of Way,B23
-Obstruction (Not Vegetation),Right of Way,B23
-Obstruction on Highways / Sight Lines,Right of Way,B23
-Obstruction or hazard on road,Right of Way,B23
-Obstruction on a public right of way,Right of Way,B23
-Obstruction on pavement/verge,Right of Way,B23
-Obscured by vegetation or Dirty,Right of Way,B23
-Noise nuisance,Incivilities,B14
-Missed Food Waste Collection,Rubbish,B26
-Missed Collection (Green Waste),Rubbish,B26
-Domestic Waste - Missed Collection,Rubbish,B26
-Missed Collection,Rubbish,B26
-Missed bin collection,Rubbish,B26
-Damaged/ cracked drain or man hole cover,Drainage,B7
-Broken manhole cover,Drainage,B7
-Manhole/drain cover on pavement/verge,Drainage,B7
-Manhole Cover - Damaged (rocking or noisy),Drainage,B7
-Missing,Drainage,B7
-Missing Gully/Manhole,Drainage,B7
-Missing drain or man hole cover,Drainage,B7
-Manhole Cover,Drainage,B7
+Short Grass,Overgrown/Fallen Veg/Trees,B17
+Oil Spillage,Rubbish,B26
+Damaged bollards/posts,Street Furniture,B27
+Verges,Road Safety,B24
 Inspection Covers,Drainage,B7
-Manhole / Drain cover,Drainage,B7
-Manhole,Drainage,B7
-Broken / Missing,Drainage,B7
-Noisy Ironwork,Drainage,B7
-Gully or Manhole,Drainage,B7
-Ironwork Collapsed,Drainage,B7
-Ironwork Corroded/Damaged,Drainage,B7
-Manhole/drain cover on road/cycleway,Drainage,B7
-Manhole covers,Drainage,B7
-Broken drain cover,Drainage,B7
-Missing Ironwork,Drainage,B7
-Litter in Parks & Open spaces,Rubbish,B26
-Bin bags,Rubbish,B26
-Litter Bin overflow,Rubbish,B26
-Overflowing litter bin,Rubbish,B26
-Litter bin,Rubbish,B26
-Litter Bin on a verge or open space,Rubbish,B26
-Litter,Rubbish,B26
-Litter On Road/Street Cleaning,Rubbish,B26
-Litter Bins Full/Damaged/Missing,Rubbish,B26
-Full bin,Rubbish,B26
-Overflowing Street Litter Bin,Rubbish,B26
-Litter Bin Overflowing,Rubbish,B26
-Litter Bin overflow in Parks & Open spaces,Rubbish,B26
-Litter in the street,Rubbish,B26
-Litter bin damaged,Rubbish,B26
-Litter bin full,Rubbish,B26
-Bin bags/ Cardboard boxes,Rubbish,B26
-Lit Signs (Electrical),Other,B16
-Lewisham Homes,Other,B16
-Leaves/ leaf fall,Rubbish,B26
-Leaves,Rubbish,B26
-Leafing,Rubbish,B26
-Icy Footpath,Gritting,B11
-Ice & snow,Gritting,B11
-Ice/Snow,Gritting,B11
-Snow and ice problem/winter salting,Gritting,B11
-Ice,Gritting,B11
-Icy Road,Gritting,B11
-Highways Drainage,Drainage,B7
-Highway Drainage,Drainage,B7
-Highway Drainage or Flooding,Drainage,B7
-Highways Drainage on a road or footway,Drainage,B7
-Highway Improvements on a road or footwa,Grounds Maintenance,B12
-Highway Improvements on a road or footway,Grounds Maintenance,B12
-Highways Maintenance,Grounds Maintenance,B12
-Highway Condition Enquiry,Highways Enquiries,B13
-Roads/highways,Highways Enquiries,B13
-Motorways Defects,Road Surface Defects,B25
-Highway Condition (Assets),Road Surface Defects,B25
+Problem at other roadworks,Grounds Maintenance,B12
+1 signal light out,Street Lights,B28
 Highway Condition,Road Surface Defects,B25
-Trunkroad or motorway defect,Road Surface Defects,B25
-Gully or manhole defect,Drainage,B7
-Manholes,Drainage,B7
-Markings/ lines Missing or faded,Drainage,B7
-Gully/Drainage,Drainage,B7
-Gullies,Drainage,B7
-Gully Catch Soakwy: Non Func,Drainage,B7
-Gulley covers,Drainage,B7
-Other public drainage issue,Drainage,B7
-Ditch Problem Non Hazardous,Drainage,B7
-Gully Catch Soakwy: Bad Smell,Drainage,B7
-Gully,Drainage,B7
-Gully and Catchpits,Drainage,B7
-Street Works (Utilities),Grounds Maintenance,B12
-Grounds Maintenance,Grounds Maintenance,B12
-Street needs gritting,Gritting,B11
-Gritting,Gritting,B11
-Grit Bins,Gritting,B11
-Grit bin issue,Gritting,B11
-Grit bin refills,Gritting,B11
-Request refill of grit bin,Gritting,B11
-Grit Bin - damaged/replacement,Gritting,B11
-Grit Bin - empty/refill,Gritting,B11
-Smelly drain,Drainage,B7
-Grids and Drains,Drainage,B7
-Grass verges,Overgrown/Fallen Veg/Trees,B17
-Grass Cutting,Overgrown/Fallen Veg/Trees,B17
-Noxious weeds,Overgrown/Fallen Veg/Trees,B17
-Weeds on roads or footpaths,Overgrown/Fallen Veg/Trees,B17
-Weed Growth,Overgrown/Fallen Veg/Trees,B17
-Grass/Weeds,Overgrown/Fallen Veg/Trees,B17
-Missed Grass Cutting,Overgrown/Fallen Veg/Trees,B17
-Weed problem on the highway,Overgrown/Fallen Veg/Trees,B17
-Grass Cutting on a verge or open space,Overgrown/Fallen Veg/Trees,B17
-Long Grass NonHazard,Overgrown/Fallen Veg/Trees,B17
-Weed control,Overgrown/Fallen Veg/Trees,B17
-Verge cutting residential areas,Overgrown/Fallen Veg/Trees,B17
-Grass and Hedges,Overgrown/Fallen Veg/Trees,B17
-Grass damage/destroy/disease,Overgrown/Fallen Veg/Trees,B17
-Japanese knotweed / ragwort,Overgrown/Fallen Veg/Trees,B17
-Other Grass Cutting Issues,Overgrown/Fallen Veg/Trees,B17
-Verge cutting required,Overgrown/Fallen Veg/Trees,B17
-Grass cutting query,Overgrown/Fallen Veg/Trees,B17
-Weeds,Overgrown/Fallen Veg/Trees,B17
-Grass,Overgrown/Fallen Veg/Trees,B17
-Street weeds,Overgrown/Fallen Veg/Trees,B17
-Grass needs cutting,Overgrown/Fallen Veg/Trees,B17
-Grass Cutting on a public right of way,Right of Way,B23
-Graffiti/Flyposting: Offensive,Incivilities,B14
-Graffiti / Flyposting on traffic light (non-offensive),Incivilities,B14
-Graffiti on council buildings,Incivilities,B14
-Graffiti / Flyposting on stop or shelter (offensive),Incivilities,B14
-Graffiti / Flyposting (non-offensive),Incivilities,B14
-Grafitti,Incivilities,B14
-Graffiti / Flyposting on stop or shelter (non-offensive),Incivilities,B14
-Graffiti on bridges/subways,Incivilities,B14
-Graffiti (Offensive),Incivilities,B14
-Offensive Graffiti on Property,Incivilities,B14
-Graffiti,Incivilities,B14
-Graffiti or Flyposting (not offensive),Incivilities,B14
-Graffiti on Council Property,Incivilities,B14
-Graffiti and flyposting,Incivilities,B14
-Graffiti/Flyposting: Non-Offen,Incivilities,B14
-Graffiti or flyposting (offensive),Incivilities,B14
-General Fault,Highways Enquiries,B13
-General Enquiry/Complaints,Highways Enquiries,B13
-General Highways Enquiry,Highways Enquiries,B13
-Highway Schemes,Highways Enquiries,B13
-General Maintenance and pruning,Highways Enquiries,B13
-Highways,Highways Enquiries,B13
-Stile-Damaged/Missing,Right of Way,B23
-Gate - Damaged/ Missing,Right of Way,B23
-Gates/Stiles on a public right of way,Right of Way,B23
-Garage areas,Rubbish,B26
-Garden Waste,Rubbish,B26
-Fly tipping - Enforcement Request,Rubbish,B26
-"Fly Tipping on a road, footway, verge or",Rubbish,B26
-Fly tipping,Rubbish,B26
-"Fly Tipping on a road, footway, verge or open space",Rubbish,B26
-Flytipping (TfL),Rubbish,B26
-Fly-Tipping,Rubbish,B26
-Flytipping,Rubbish,B26
-Fly Tipping on a public right of way,Rubbish,B26
-Flytipping and dumped rubbish,Rubbish,B26
-Rubbish or fly tipping on the roads,Rubbish,B26
-Illegal advertising,Incivilities,B14
-Flyposting (not by roadside),Incivilities,B14
-Flyposting (on road or roadside),Incivilities,B14
-Fly-Posting,Incivilities,B14
-Unauthorised signs,Incivilities,B14
-Illegal posters,Incivilities,B14
-Flyposting,Incivilities,B14
-Fly Posting,Rubbish,B26
-Floral displays,Floral Displays,B10
-Flooding from a blocked drain,Drainage,B7
-Flooding or standing water on road,Drainage,B7
-Flooded road,Drainage,B7
-Footway Flood Hazardous,Drainage,B7
-Flooding,Drainage,B7
-Property Damaged By Flooding,Drainage,B7
-Flooding on a road or footway,Drainage,B7
-Standing water,Drainage,B7
-Flooded underpass,Drainage,B7
-Flooding in the road,Drainage,B7
-Flooded subway,Drainage,B7
-Footway Flood Non Hazardous,Drainage,B7
-Fences & barriers,Fences,B9
-Fence Damaged/Missing Hazard,Fences,B9
-Fences,Fences,B9
-Fence Damage/Missing No Hazard,Fences,B9
-Tree or Shrub on a verge or open space,Open Spaces/Parks,B15
-Damage - general (Trees),Overgrown/Fallen Veg/Trees,B17
-Trees,Overgrown/Fallen Veg/Trees,B17
-Tree obstructing street light,Overgrown/Fallen Veg/Trees,B17
-Tree causing damage to property,Overgrown/Fallen Veg/Trees,B17
-Fallen Tree,Overgrown/Fallen Veg/Trees,B17
-Dying or dangerous tree,Overgrown/Fallen Veg/Trees,B17
-Hazardous or fallen trees,Overgrown/Fallen Veg/Trees,B17
-Hedge Untrimmed,Overgrown/Fallen Veg/Trees,B17
-Damage By Tree to 3rd Party,Overgrown/Fallen Veg/Trees,B17
-Trees and Woodland Maintenance,Overgrown/Fallen Veg/Trees,B17
-Tree (dangerous),Overgrown/Fallen Veg/Trees,B17
-Trees & hedges,Overgrown/Fallen Veg/Trees,B17
-Tree Dead/Dying/Diseased,Overgrown/Fallen Veg/Trees,B17
-Trees (Urban Areas),Overgrown/Fallen Veg/Trees,B17
-Tree,Overgrown/Fallen Veg/Trees,B17
-Trees (on the highway verge),Overgrown/Fallen Veg/Trees,B17
-Tree matters / Preservation Orders,Overgrown/Fallen Veg/Trees,B17
-Dying or diseased tree,Overgrown/Fallen Veg/Trees,B17
-Shrubs and Hedge,Overgrown/Fallen Veg/Trees,B17
-Tree/branch - fallen,Overgrown/Fallen Veg/Trees,B17
-Hedge Oversized,Overgrown/Fallen Veg/Trees,B17
-Tree/branch - may fall,Overgrown/Fallen Veg/Trees,B17
-Tree Obstruction to 3rd Party,Overgrown/Fallen Veg/Trees,B17
-Tree Or Shrub,Overgrown/Fallen Veg/Trees,B17
-Highway Tree Removal,Overgrown/Fallen Veg/Trees,B17
-Hedge problem,Overgrown/Fallen Veg/Trees,B17
-Tree Branches Overhanging,Overgrown/Fallen Veg/Trees,B17
-Tree (fallen branches),Overgrown/Fallen Veg/Trees,B17
-Fallen tree across road or pavement,Overgrown/Fallen Veg/Trees,B17
-Tree Danger/Obstruction on PN,Overgrown/Fallen Veg/Trees,B17
-Fallen or leaning tree,Overgrown/Fallen Veg/Trees,B17
-Environmental health,Environmental Health,B8
-Needles,Environmental Health,B8
-Exposed cables/wires,Environmental Health,B8
-Dumped rubbish,Rubbish,B26
-Dumped cylinder,Rubbish,B26
-Dog and litter bins,Bin Replacement,B2
-Dog Bin overflow,Bin Replacement,B2
-Dog Waste Bin,Bin Replacement,B2
-Dog Waste Bin on a verge or open space,Bin Replacement,B2
-Dog bin overflowing,Bin Replacement,B2
-Dog Bin,Bin Replacement,B2
-Dog fouling,Dog Fouling,B6
-Dogs and Dogs Fouling,Dog Fouling,B6
-Poop Scoop Bins,Dog Fouling,B6
-Dog Mess,Dog Fouling,B6
-Discarded Syringes,Rubbish,B26
-Demo,Other,B16
-Removal of Debris,Rubbish,B26
-Debris / Obstructions,Rubbish,B26
-Mud and Debris,Rubbish,B26
-Debris & spillage,Rubbish,B26
-Mud on Road,Rubbish,B26
-Debris in the carriageway,Rubbish,B26
-Road obstruction,Rubbish,B26
-Debris/Spillage,Rubbish,B26
-Mud or Debris on the road,Rubbish,B26
-Dead animal on a road or footpath,Environmental Health,B8
-Dead animals,Environmental Health,B8
-Dead animal,Environmental Health,B8
-Removal Of Carcass,Environmental Health,B8
-Dead animal in the carriageway or footway,Environmental Health,B8
-Dangerous structure,Dangerous Building/Structure,B5
-Dangerous Building,Dangerous Building/Structure,B5
-Access to a Countryside Pathway,Right of Way,B23
-Countryside Paths / Public Rights of Way,Right of Way,B23
-C.C.T.V Faults,Other,B16
-Seats and benches,Bus Stops Damage,B4
-Bus stop/shelter issue,Bus Stops Damage,B4
-Bus stops,Bus Stops Damage,B4
-Damage - wires exposed on bus shelter,Bus Stops Damage,B4
-Damage - shelter unstable or loose in the ground,Bus Stops Damage,B4
-Damage - pole leaning / equipment detached from pole/facing the wrong direction,Bus Stops Damage,B4
-Bus shelters,Bus Stops Damage,B4
-Shelter/Seat,Bus Stops Damage,B4
-Bus stop damage,Bus Stops Damage,B4
-Damage - other (bus stops and shelters),Bus Stops Damage,B4
-Damage - wires exposed,Bus Stops Damage,B4
-Damage - lighting not working (bus shelter),Bus Stops Damage,B4
-Damage - smashed glass or panels / jagged metal edges on shelter,Bus Stops Damage,B4
-Bus Stop Pole Leaning/Damaged,Bus Stops Damage,B4
-Shelter Damaged,Bus Stops Damage,B4
-Loose/missing/chipped kerbstone,Other,B16
-Kerbs,Other,B16
-Kerb damage / issue,Other,B16
-Broken Flags/Kerbs,Other,B16
-Fire hydrants,Other,B16
-Broken Fire Hydrant Covers,Other,B16
+Street Light,Street Lights,B28
+Signs on a public right of way,Right of Way,B23
+Trees (on sites owned by Three Rivers Di,Right of Way,B23
+"Damaged Railing, manhole, or drain cover",Road Surface Defects,B25
+Enforcement,Parking,B18
+Tree or Shrub on a road or footway,Right of Way,B23
 Bridge-Damaged/ Missing,Bridge/Culvert Defects,B3
-Bridges/Subways,Bridge/Culvert Defects,B3
-"Bridge, Subway or Culvert on a road or f",Bridge/Culvert Defects,B3
-Bridge or culvert defect,Bridge/Culvert Defects,B3
-"Bridge, Subway or Culvert on a public right of way",Bridge/Culvert Defects,B3
-Bridges,Bridge/Culvert Defects,B3
-"Bridge, Subway Or Culvert on a road or footway",Bridge/Culvert Defects,B3
-Bridge,Bridge/Culvert Defects,B3
-"Bridge, Subway or Culvert in an open space",Bridge/Culvert Defects,B3
-Bridge or Structure,Bridge/Culvert Defects,B3
-"Damaged dyke, ditch or culvert",Bridge/Culvert Defects,B3
-Subway light faulty,Bridge/Culvert Defects,B3
-Ditch issue,Bridge/Culvert Defects,B3
+Festive Decoration Damaged,Other,B16
 Subway Light Out or Flickering,Bridge/Culvert Defects,B3
-"Bridge, Subway or Culvert on a public ri",Bridge/Culvert Defects,B3
-Highway Bridges - Damaged/Unsafe,Bridge/Culvert Defects,B3
-"Bridge, Subway or Culvert in an open spa",Bridge/Culvert Defects,B3
-Subway light,Bridge/Culvert Defects,B3
-Blocked drainage gullies,Drainage,B7
-Blocked drain / Flooding,Drainage,B7
-Blocked - flooding private property,Drainage,B7
-Blocked rainwater gulleys,Drainage,B7
-Blocked drainage gully,Drainage,B7
-Street drainage,Drainage,B7
-Drains,Drainage,B7
-Drainage Structure: Leakage,Drainage,B7
-Blocked - flooding road/path,Drainage,B7
-Blocked gully,Drainage,B7
-Drainage,Drainage,B7
-Blocked drain surface,Drainage,B7
-Drainage Structure: Blockage,Drainage,B7
-Blocked/Damaged,Drainage,B7
-Flooding of a road or pavement,Drainage,B7
-Blocked Ditch,Drainage,B7
-Drain or Gully,Drainage,B7
-Blocked drains and gullies,Drainage,B7
-Drainage or Flooding on a public right o,Drainage,B7
-Blocked Ditch Causing Flooding,Drainage,B7
-Blocked  Drains,Drainage,B7
-Blocked drain,Drainage,B7
-Blocked drains,Drainage,B7
-Blocked or damaged drain,Drainage,B7
-Drainage Or Flooding on a public right of way,Drainage,B7
-Bin Damaged Hazard,Bin Replacement,B2
-Damage to litter bin,Bin Replacement,B2
-"Damaged, dirty, or missing bin",Bin Replacement,B2
-Bin Damaged NonHazard,Bin Replacement,B2
-Empty Bin,Bin Replacement,B2
-Bin Repair,Bin Replacement,B2
-Bin Request,Bin Replacement,B2
-Damage Public Litter Bin,Bin Replacement,B2
-"Damage to bins, benches, and infrastructure",Bin Replacement,B2
-Refuse collection,Rubbish,B26
 Refuse and recycling,Rubbish,B26
-Bench/cycle rack/litter bin/planter,Street Furniture,B27
-Benches / bicycle racks,Street Furniture,B27
-Bollards on a road or footway,Right of Way,B23
-Barrier/Bollard on a public right of way,Right of Way,B23
-Bollards,Right of Way,B23
-lit bollard knocked down,Road Safety,B24
-Damaged bollard or post,Road Safety,B24
-Lit signs & bollards,Road Safety,B24
-Lit Bollards (Electrical),Road Safety,B24
-Admin,Other,B16
-Household bins left out,Rubbish,B26
-Excessive or dangerous littering,Rubbish,B26
-Rubbish accumulation on private property,Rubbish,B26
-Accumulated Litter,Rubbish,B26
-Abandoned bike,Abandoned Vehicles,B1
-Abandoned vehicle,Abandoned Vehicles,B1
-Abandoned and Untaxed Vehicles,Abandoned Vehicles,B1
+Damaged road sign,Road Surface Defects,B25
+Street cleansing,Street Furniture,B27
+Sign/Pole Damaged,Road Safety,B24
+Hoardings blocking carriageway or footway,Highways Enquiries,B13
+Traffic signal obstructed by vegetation,Road Safety,B24
+Refuse collection,Rubbish,B26
+Flooded subway,Drainage,B7
+Traffic Signals Damaged,Road Safety,B24
+Tree blocking solar panels,Overgrown/Fallen Veg/Trees,B17
+Emergency - Leaning tree,Overgrown/Fallen Veg/Trees,B17
+Recycling - Missed Collection,Rubbish,B26
+Damage - shelter unstable or loose in the ground,Bus Stops Damage,B4
+Single light out/flickering,Street Lights,B28
+Flooded road,Drainage,B7
+Signal Stuck,Road Safety,B24
+Drainage Structure: Blockage,Drainage,B7
+Trees overhanging roads/paths,Right of Way,B23
+Tree causing damage to property,Overgrown/Fallen Veg/Trees,B17
+Public Toilets,Public Toilets,B21
+Tree Wound,Overgrown/Fallen Veg/Trees,B17
+Alcohol,Other,B16
+Rubbish or fly tipping on the roads,Rubbish,B26
+Damage: Pedestrian Barrier,Road Safety,B24
+Refuse & recycling,Rubbish,B26
+Signal Failure/Damaged - Toucan/Pelican,Road Safety,B24
+Play Equipment,Open Spaces/Parks,B15
+Tree Or Shrub on a road or footway,Right of Way,B23
+Trees (on the highway verge),Overgrown/Fallen Veg/Trees,B17
+Trade Waste,Rubbish,B26
+Kerb damage / issue,Other,B16
+Footway,Pavement /Footway Defects,B19
+Objects in the road,Right of Way,B23
+Public Trees,Overgrown/Fallen Veg/Trees,B17
+Bridge,Bridge/Culvert Defects,B3
+Lamp post,Street Lights,B28
+Footway Flood Non Hazardous,Drainage,B7
+Damaged/missing paving slab,Road Surface Defects,B25
+Pothole on pavement/verge,Road Surface Defects,B25
+Column/lantern damaged/leaning,Street Furniture,B27
+Broken Fire Hydrant Covers,Other,B16
+Sweeping & Cleansing Hazard,Right of Way,B23
+Street lights,Street Lights,B28
+Crash Barriers,Road Safety,B24
+General Fault,Highways Enquiries,B13
+Temporary,Road Safety,B24
+Play area safety issue,Open Spaces/Parks,B15
+Drain or Gully,Drainage,B7
+Highway Improvements on a road or footwa,Grounds Maintenance,B12
+Exposed cables/wires,Environmental Health,B8
+Tree is considered to be causing damage,Overgrown/Fallen Veg/Trees,B17
+Car Park Barrier / Equipment,Parking,B18
+Veg Obstructed: Hway Vis,Overgrown/Fallen Veg/Trees,B17
+Highways,Highways Enquiries,B13
+Retaining Wall,Retaining Wall,B22
+Domestic Waste - Missed Collection,Rubbish,B26
+Dogs and Dogs Fouling,Dog Fouling,B6
+Visibility at junction or bend,Road Safety,B24
+Public toilets,Public Toilets,B21
+Obstruction on road/cycleway,Right of Way,B23
+Unstable hoardings,Other,B16
+Signs,Road Safety,B24
+Bench Damaged Hazard,Street Furniture,B27
+Flooded underpass,Drainage,B7
+Play Area Issues on a verge or open space,Open Spaces/Parks,B15
+Utility Works and Manhole Covers (Street,Utility Works,B29
+Pedestrian Barrier Corroded,Right of Way,B23
+Fly-tipping,Rubbish,B26
+Gully Catch Soakwy: Non Func,Drainage,B7
+Hedge Pruning,Overgrown/Fallen Veg/Trees,B17
+"Street lighting (parks, car parks and op",Street Lights,B28
+Abandoned Vehicle,Abandoned Vehicles,B1
+Road lines / road markings,Road Safety,B24
+Hedges / Trees on road or verge,Right of Way,B23
+Smelly drain,Drainage,B7
+Ditch issue,Bridge/Culvert Defects,B3
+Junction Markings,Road Safety,B24
+Loose chippings,Road Surface Defects,B25
+Damaged/missing pedestrian guardrail,Road Safety,B24
+Light on during day,Street Lights,B28
+Public Right of Way (including Cycleway),Right of Way,B23
+Noise nuisance,Incivilities,B14
+All out - three or more street lights in a row,Street Lights,B28
+Damage to kerb,Right of Way,B23
+Litter bin,Rubbish,B26
+Gully or Manhole Defect,Drainage,B7
+Damaged pavement,Right of Way,B23
+Vehicle Idling,Other,B16
+Rough/Uneven or Surface Issue,Road Surface Defects,B25
+On-street parking,Parking,B18
+Rubbish,Rubbish,B26
+Overgrown tree/hedges,Overgrown/Fallen Veg/Trees,B17
+Blocked Drain,Drainage,B7
+Street nameplaces,Street Furniture,B27
+Hazardous or fallen trees,Overgrown/Fallen Veg/Trees,B17
+"Street lighting (parks, car parks and open spaces)",Street Lights,B28
+Full bin,Rubbish,B26
+Pavement Damaged/Cracked,Pavement /Footway Defects,B19
+Pothole or other defect,Road Surface Defects,B25
+Pedestrian Barriers - Damaged / Missing,Right of Way,B23
+Damage to pavement,Road Surface Defects,B25
+Weeds,Overgrown/Fallen Veg/Trees,B17
+Mud / Slippery surface,Road Surface Defects,B25
+Public rights of way,Right of Way,B23
+Dog Mess,Dog Fouling,B6
+Shrub Pruning,Overgrown/Fallen Veg/Trees,B17
+Uneven Flags,Other,B16
+Grass cutting query,Overgrown/Fallen Veg/Trees,B17
+Overhanging vegetation,Overgrown/Fallen Veg/Trees,B17
+Road and Pavement Issues,Road Surface Defects,B25
+Column Damaged,Street Furniture,B27
+Traffic Signals,Road Safety,B24
+Fallen Branches,Overgrown/Fallen Veg/Trees,B17
+Empty tree Pit,Other,B16
+Tree (dangerous),Overgrown/Fallen Veg/Trees,B17
+Lewisham Homes,Other,B16
+Damaged road,Road Surface Defects,B25
+Damage Public Litter Bin,Bin Replacement,B2
+Fly tipping,Rubbish,B26
+Highway Drainage or Flooding,Drainage,B7
+Street washing,Road Safety,B24
+Belisha Beacon Minor Damage,Street Furniture,B27
+Standing water,Drainage,B7
+Fallen tree across road or pavement,Overgrown/Fallen Veg/Trees,B17
+Road Traffic Signs and Road Markings,Road Safety,B24
+Damaged equipment,Open Spaces/Parks,B15
 Abandoned car,Abandoned Vehicles,B1
-Abandoned vehicles,Abandoned Vehicles,B1
+Abandoned and Untaxed Vehicles,Abandoned Vehicles,B1
+Manhole Cover,Drainage,B7
+Countryside Paths / Public Rights of Way (usually not tarmac),Right of Way,B23
+Food Safety - Food Rating Standards,Other,B16
+Noxious weeds,Overgrown/Fallen Veg/Trees,B17
+Tree Roots,Overgrown/Fallen Veg/Trees,B17
+Dying or diseased tree,Overgrown/Fallen Veg/Trees,B17
+Roads/Highways,Highways Enquiries,B13
+Utilities,Utility Works,B29
+Refuse Collection,Rubbish,B26
+Litter bin damaged,Rubbish,B26
+Play Area,Open Spaces/Parks,B15
+Graffiti or flyposting (offensive),Incivilities,B14
+Blocked/Damaged,Drainage,B7
+"Trees in parks, commons and open  spaces",Overgrown/Fallen Veg/Trees,B17
+Salt Bin Request,Gritting,B11
+Discarded Syringes,Rubbish,B26
+Obstruction on public right of way,Right of Way,B23
+Dog bin overflowing,Bin Replacement,B2
+Multiple lights out/flickering,Street Lights,B28
+Blocked Drains,Drainage,B7
+Loose/missing/chipped kerbstone,Other,B16
+Traffic bollard,Street Furniture,B27
+Abandoned vehicle,Abandoned Vehicles,B1
+Utility Works and Manhole Covers (Streetworks),Utility Works,B29
+Ditch Problem Non Hazardous,Drainage,B7
+Street Light Fault,Street Lights,B28
+Car parking issues,Parking,B18
+Crossing not working,Road Safety,B24
+Car Park Machine Not Working,Parking,B18
+Crash Barriers - Damaged / Missing,Road Safety,B24
+Road Traffic Signs & Markings,Street Furniture,B27
+"Street Light - Equipment damaged, pole leaning",Street Lights,B28
+Sign or Marking,Road Safety,B24
+"Bridge, Subway Or Culvert on a road or footway",Bridge/Culvert Defects,B3
+Flytipping (deleted),Rubbish,B26
+Footway Defect on a road or footway,Right of Way,B23
+Missing safety fence,Road Surface Defects,B25
+Graffiti / Flyposting on stop or shelter (offensive),Incivilities,B14
+Zebra crossing/ belisha faulty,Road Safety,B24
+Vegetation or Weeds on a verge or open space,Right of Way,B23
+Shopping trolleys,Incivilities,B14
+Car Parks and ticket machines,Parking,B18
+Manhole / Drain cover,Drainage,B7
+Timetable Missing/Damaged,Bus Stops Damage,B4
+Property Damaged By Flooding,Drainage,B7
+Vegetation Encroachment,Overgrown/Fallen Veg/Trees,B17
+Gully and Catchpits,Drainage,B7
+Litter bin full,Rubbish,B26
+Carparks,Parking,B18
+Burning By Day,Street Lights,B28
+Damage - lighting not working (bus shelter),Bus Stops Damage,B4
+General Enquiry/Complaints,Highways Enquiries,B13
+Missed Collection (Green Waste),Rubbish,B26
+Rights of Way,Right of Way,B23
+Zebra Crossing,Road Safety,B24
+Attachment Distract/Obstruct,Road Safety,B24
+Single pothole (less than 30cm wide and 4cm deep),Road Surface Defects,B25
+Road Signs and Markings,Road Safety,B24
+Dropped kerb - Apply for new / extend crossover,Road Safety,B24
+Refuse - Missed Collection,Rubbish,B26
+Gully or Manhole,Drainage,B7
+Stuck on red,Street Lights,B28
+Blocked  Drains,Drainage,B7
+All signal lights out,Street Lights,B28
+Footpaths & rights of way,Right of Way,B23
+Pavement Jetting,Road Surface Defects,B25
+Grit bin refills,Gritting,B11
+Environmental health,Environmental Health,B8
+Drainage Structure: Leakage,Drainage,B7
+Kerb not flush / no tactile paving,Pavement /Footway Defects,B19
+General (Ironworks),Other,B16
+Bus Stop Pole Leaning/Damaged,Bus Stops Damage,B4
+Household bins left out,Rubbish,B26
+Obstruction or hazard on road,Right of Way,B23
+Gulley covers,Drainage,B7
+Roadside safety barrier,Road Surface Defects,B25
+Private property,Other,B16
+Fly-Posting,Incivilities,B14
+Parks & open spaces,Open Spaces/Parks,B15
+Access to a Countryside Pathway,Right of Way,B23
+Vegetation or Weeds on a public right of,Right of Way,B23
+Skip Licence,Other,B16
+Traffic signal faulty,Road Safety,B24
+Bridge or culvert defect,Bridge/Culvert Defects,B3
+Tree/branch - may fall,Overgrown/Fallen Veg/Trees,B17
+Emergency - Fallen branch,Overgrown/Fallen Veg/Trees,B17
+Highway Tree Removal,Overgrown/Fallen Veg/Trees,B17
+Worn out road markings,Road Safety,B24
+Overgrown Vegetation,Overgrown/Fallen Veg/Trees,B17
+Public footpath or cyclepath,Right of Way,B23
+Vegetation on a public right of way,Right of Way,B23
+Replacement Refuse and Recycling Bins,Rubbish,B26
+Problem at LCC roadworks,Grounds Maintenance,B12
+Dog Bin overflow,Bin Replacement,B2
+Spillage on the road,Rubbish,B26
+2 signal lights out,Street Lights,B28
+Blocked drain surface,Drainage,B7
+Application for a Large Household Wheelie Bin,Other,B16
+Smell,Right of Way,B23
+Multiple potholes (various sizes),Road Surface Defects,B25
+Gate - Damaged/ Missing,Right of Way,B23
+Road Traffic Signs,Road Safety,B24
+To let signs,Other,B16
+Contractor Enquiry/Complaints,Other,B16
+Manhole/drain cover on road/cycleway,Drainage,B7
+Road signs,Road Safety,B24
+Wildlife Verges,Overgrown/Fallen Veg/Trees,B17
+Blocked drains and gullies,Drainage,B7
+Road Safety,Road Safety,B24
+Damaged street nameplate,Street Furniture,B27
+Trip hazard,Rubbish,B26
+Pavement Condition,Pavement /Footway Defects,B19
+Recruitment,Other,B16
+Lit signs & bollards,Road Safety,B24
+"Public rights of way, alleyways and bridlepaths",Right of Way,B23
+Playing Fields,Open Spaces/Parks,B15
+Cyclepath Query,Street Furniture,B27
+Kerbs,Other,B16
+Collapsed verge,Road Surface Defects,B25
+Trees overhanging highways,Right of Way,B23
+Ditches,Bridge/Culvert Defects,B3
+Tree Or Shrub,Overgrown/Fallen Veg/Trees,B17
+Needles,Environmental Health,B8
+Flooding or standing water on road,Drainage,B7
+Belisha Beacon Malfunction,Right of Way,B23
+Grass damage/destroy/disease,Overgrown/Fallen Veg/Trees,B17
+Potholes (large),Road Surface Defects,B25
+Traffic sign light,Road Safety,B24
+Tourist Signs,Street Furniture,B27
+Vegetation or Weeds on a public right of way,Right of Way,B23
+Parks and playgrounds,Open Spaces/Parks,B15
+Road Marking,Road Safety,B24
+Litter Bin overflow in Parks & Open spaces,Rubbish,B26
+Overgrown Weeds,Overgrown/Fallen Veg/Trees,B17
+Obstructive vegetation,Overgrown/Fallen Veg/Trees,B17
+Pavement damage,Pavement /Footway Defects,B19
+General (SL & Signals),Other,B16
+Damage to property caused by works,Grounds Maintenance,B12
+Drainage or Flooding on a public right o,Drainage,B7
+General (Winter),Gritting,B11
+Safety fences and barriers,Road Safety,B24
+Damaged bollard or post,Road Safety,B24
+Vegetation or Weeds,Overgrown/Fallen Veg/Trees,B17
+Floral displays,Floral Displays,B10
+Street Name Plates,Street Furniture,B27
+Lamp: Outage (Single Unit),Street Lights,B28
+Street nameplate damaged/missing,Street Furniture,B27
+Illegal posters,Incivilities,B14
+Recycling and waste,Rubbish,B26
+Missing Ironwork,Drainage,B7
+Damage - wires exposed,Bus Stops Damage,B4
+Tree or Shrub on a public right of way,Right of Way,B23
+SL Post Knockdown,Other,B16
+Grit Bin - damaged/replacement,Gritting,B11
+Graffiti and flyposting,Incivilities,B14
+Dumped cylinder,Rubbish,B26
+Road markings,Road Safety,B24
+Grass verges,Overgrown/Fallen Veg/Trees,B17
+Accumulated Litter,Rubbish,B26
+Enquiry regarding newly planted tree,Overgrown/Fallen Veg/Trees,B17
+Missing Drain Cover,Drainage,B7
+Trees,Overgrown/Fallen Veg/Trees,B17
+Flytipping and dumped rubbish,Rubbish,B26
+Damage to litter bin,Bin Replacement,B2
+Pedestrian barrier/ railing damaged,Right of Way,B23
+Other street defect,Road Surface Defects,B25
+Fault on public right of way,Right of Way,B23
+Weed problem on the highway,Overgrown/Fallen Veg/Trees,B17
+Litter,Rubbish,B26
+Flyposting (on road or roadside),Incivilities,B14
+Damage By Tree to 3rd Party,Overgrown/Fallen Veg/Trees,B17
+Unpaved OS CP Surface Issue,Pavement /Footway Defects,B19
+Obstructions on pavements and roads,Right of Way,B23
+Road damage / Pothole,Road Surface Defects,B25
+Fly Tipping,Rubbish,B26
+Trees or shrubs blocking visibility,Overgrown/Fallen Veg/Trees,B17
+Missed Collection,Rubbish,B26
+Structure Issue,Other,B16
+Road Sign,Road Safety,B24
+Problem with moths,Overgrown/Fallen Veg/Trees,B17
+Icy Road,Gritting,B11
+Signal Failure,Road Safety,B24
+"Bridge, Subway or Culvert in an open spa",Bridge/Culvert Defects,B3
+Blocked drains,Drainage,B7
+On Street Parking,Parking,B18
+Traffic Light Fault,Road Safety,B24
+Quality/Speed of Service,Other,B16
+Missing/Broken Sign on a public right of way,Right of Way,B23
+Roads and pavement surfaces - Road pothole,Road Surface Defects,B25
+Litter Bin Overflowing,Rubbish,B26
+Damage - smashed glass or panels / jagged metal edges on shelter,Bus Stops Damage,B4
+Street light dim,Street Lights,B28
+Tree blocking TV/Satellite or radio signal,Overgrown/Fallen Veg/Trees,B17
+Illegal parking,Parking,B18
+Poor Parking (Council Car Park),Parking,B18
+Parks and playing fields,Open Spaces/Parks,B15
+Graffiti/Flyposting: Offensive,Incivilities,B14
+CP Ticket Machine NonHazard,Other,B16
+Intermittent,Street Lights,B28
 Pothole (minor),Road Surface Defects,B25
+Spillage on network,Rubbish,B26
+Emergency - Fallen tree,Overgrown/Fallen Veg/Trees,B17
+Road Markings Missing/Faded,Road Safety,B24
+Rights of way,Right of Way,B23
+Dead animal on a road or footpath,Environmental Health,B8
+Damage to grass verges,Road Safety,B24
+Car Parks,Parking,B18
+Syringes,Rubbish,B26
+Missing Gully/Manhole,Drainage,B7
+Incorrect timetable information,Other,B16
+Car parking,Parking,B18
+Tree touching overhead cables,Overgrown/Fallen Veg/Trees,B17
+Illuminated Sign,Street Lights,B28
+Dog Bin Overflowing,Bin Replacement,B2
+Grit bin issue,Gritting,B11
+Underpass light,Right of Way,B23
+Drainage or Flooding on a public right of way,Drainage,B7
+Pavement Defect,Pavement /Footway Defects,B19
+Parks,Open Spaces/Parks,B15
+Trees & Hedges,Overgrown/Fallen Veg/Trees,B17
+General Information Request,Other,B16
+Missing/ damaged traffic sign,Road Safety,B24
+Tree Pruning Request,Overgrown/Fallen Veg/Trees,B17
+Flyposting,Incivilities,B14
+Blocked or damaged drain,Drainage,B7
+Grass Cutting on a public right of way,Right of Way,B23
+Diseased Tree,Overgrown/Fallen Veg/Trees,B17
+Highway Bridges - Damaged/Unsafe,Bridge/Culvert Defects,B3
+Blocked drain,Drainage,B7
+Street Lighting and Road Signs,Street Lights,B28
+"Damage to bins, benches, and infrastructure",Bin Replacement,B2
+Footpaths/ Rights of way (usually not tarmac),Right of Way,B23
+Grass,Overgrown/Fallen Veg/Trees,B17
+Traffic Lights (permanent only),Road Safety,B24
+Damaged/Exposed Wiring / Vandalised,Other,B16
+Weeds on roads or footpaths,Overgrown/Fallen Veg/Trees,B17
+Illegal encampments,Other,B16
+Blocked gully,Drainage,B7
+Road Markings - Worn/Faded,Road Safety,B24
+"Obstructions (skips, A boards)",Right of Way,B23
+Public Conveniences,Public Toilets,B21
+Damaged bench,Street Furniture,B27
+Vandalised tree,Other,B16
+Road traffic signs,Road Safety,B24
+Timings,Road Safety,B24
+Car Parking,Parking,B18
+Blocked - flooding road/path,Drainage,B7
+Fallen tree,Overgrown/Fallen Veg/Trees,B17
+Car parks,Parking,B18
+Parking related road markings,Parking,B18
+Speed Limit Signs,Street Furniture,B27
+Public right of way - problem with access or damage,Right of Way,B23
+Watercourse Block/Obstruction,Right of Way,B23
+Litter Bin overflow,Rubbish,B26
+Grass cutting,Overgrown/Fallen Veg/Trees,B17
+Bridges,Bridge/Culvert Defects,B3
+Parking,Parking,B18
+Ice/Snow,Gritting,B11
+Growth at the bottom of trees/regrowth,Overgrown/Fallen Veg/Trees,B17
+Street Nameplates,Street Furniture,B27
+Highways Drainage on a road or footway,Drainage,B7
+Warning Signs,Street Furniture,B27
+"Bridge, Subway or Culvert on a road or f",Bridge/Culvert Defects,B3
+Belisha Beacon broken,Right of Way,B23
+Debris in the carriageway,Rubbish,B26
+Rubbish (refuse and recycling),Rubbish,B26
+"Bridge, Subway or Culvert in an open space",Bridge/Culvert Defects,B3
+"Traffic lights & crossings problems with buttons, beep or lamps",Road Safety,B24
+Cycle Hangars,Street Furniture,B27
+Box/Planters Enquiry,Overgrown/Fallen Veg/Trees,B17
+Street light wiring exposed,Street Lights,B28
+Unlit Bollard Issue Non Hazard,Street Furniture,B27
+Slabs - Missing,Right of Way,B23
+Problem with tree roots,Overgrown/Fallen Veg/Trees,B17
+Lining,Rubbish,B26
+Abandoned bike,Abandoned Vehicles,B1
+Rubbish accumulation on private property,Rubbish,B26
+Sign Obstructed: Vegetation,Road Safety,B24
+Pest Control,Environmental Health,B8
+Grass Cutting on a verge or open space,Overgrown/Fallen Veg/Trees,B17
+Pests in trees and shrubs,Overgrown/Fallen Veg/Trees,B17
+Obstruction on pavement/verge,Right of Way,B23
+Rats,Environmental Health,B8
+Potholes (smaller than 30cm by 4cm),Road Surface Defects,B25
+Surface Condition,Road Surface Defects,B25
+Unstable scaffolding,Other,B16
+Road lighting,Street Lights,B28
+Grafitti,Incivilities,B14
+Unlit Bollard Issue Hazardous,Street Furniture,B27
+Graffiti / Flyposting on traffic light (offensive),Incivilities,B14
+Bin Repair,Bin Replacement,B2
+Swaying trees,Overgrown/Fallen Veg/Trees,B17
+Tree (fallen branches),Overgrown/Fallen Veg/Trees,B17
+Significant or Harmful Waste on Private Land,Rubbish,B26
+Car parks (council run),Parking,B18
+Footway Defect,Right of Way,B23
+Skips and scaffolding,Rubbish,B26
+Long Grass Hazardous,Overgrown/Fallen Veg/Trees,B17
+Flytipping (off-road),Rubbish,B26
+Countdown - not working,Street Furniture,B27
+Highway Improvements on a road or footway,Grounds Maintenance,B12
+Emergency - Hanging branch,Overgrown/Fallen Veg/Trees,B17
+Excessive or dangerous littering,Rubbish,B26
+Crash Barriers Damaged/Missing,Road Safety,B24
+Carriageway Flood NonHazard,Road Surface Defects,B25
+Door Missing/ open,Other,B16
+"Damaged road edge, encroaches less than 100mm",Road Surface Defects,B25
+Single pothole (less than 30cm wide and,Road Surface Defects,B25
+unlit bollard knockdown/ missing (hazardous),Street Furniture,B27
+Street Lighting,Street Lights,B28
+Bollards (lit),Road Safety,B24
+Bollards on a road or footway,Right of Way,B23
+Parks & Green Spaces,Open Spaces/Parks,B15
+"Structures (eg bridges, fencing, noise barriers)",Bridge/Culvert Defects,B3
+Information Request,Other,B16
+Broken drain cover,Drainage,B7
+Street Furniture,Street Furniture,B27
+Playground Equipment,Open Spaces/Parks,B15
+Pavements,Pavement /Footway Defects,B19
+Hanging / broken branch,Overgrown/Fallen Veg/Trees,B17
+Roadworks,Grounds Maintenance,B12
+Conditions of Signs,Street Furniture,B27
+Broken Kerb Stones,Other,B16
+Admin,Other,B16
+Carriageway Flood Hazardous,Road Surface Defects,B25
+Garden Waste,Rubbish,B26
+Bridges & Walls,Bridge/Culvert Defects,B3
+Trees overhanging/obstructing the road o,Right of Way,B23
+Road or pavement damage,Road Surface Defects,B25
+Hedge causing obstruction,Overgrown/Fallen Veg/Trees,B17
+Streetspace Feedback,Other,B16
+Play Area Issues on a verge or open spac,Open Spaces/Parks,B15
+Overflowing litter bin,Rubbish,B26
+Road surface issue,Road Surface Defects,B25
+General (H-way Emerg.),Road Surface Defects,B25
+Dog fouling,Dog Fouling,B6
+"Bridge, Subway or Culvert on a public right of way",Bridge/Culvert Defects,B3
+General (CP & ABV),Other,B16
+Lamp/Bulb Failure,Street Lights,B28
+Zebra Crossing Light,Road Safety,B24
+Traffic Signal Timing (perm),Road Safety,B24
+Unauthorised shop display,Other,B16
+Fly-Tipping,Rubbish,B26
+Debris / Obstructions,Rubbish,B26
+Street light on during the day,Street Lights,B28
+Removal Of Carcass,Environmental Health,B8
+Grit Bins,Gritting,B11
+Sponsor a tree,Other,B16
+Highway Condition Enquiry,Highways Enquiries,B13
+Parks/landscapes,Open Spaces/Parks,B15
+Pavement,Right of Way,B23
+Safety Bollard - Damaged/Missing,Road Safety,B24
+Pavement defect,Pavement /Footway Defects,B19
+Trunkroad or motorway defect,Road Surface Defects,B25
+Motorways Defects,Road Surface Defects,B25
+Street Light On During the Day,Street Lights,B28
+Faulty street light,Street Lights,B28
+Unauthorised skip,Other,B16
+Dog Waste Bin on a verge or open space,Bin Replacement,B2
+Unlit sign knocked down,Street Furniture,B27
+Street Light Leaning,Street Lights,B28
+Markings/ lines Missing or faded,Drainage,B7
+Light blocked,Street Lights,B28
+Request gritting action,Gritting,B11
+Entertainment,Other,B16
+Public toilet,Public Toilets,B21
+Utility Box/ cover damaged,Utility Works,B29
+Veg Obstructed: Traffic Signal,Overgrown/Fallen Veg/Trees,B17
+Stile-Damaged/Missing,Right of Way,B23
+Utility Work,Utility Works,B29
+Utility Works and Manhole Covers,Utility Works,B29
+Vegetation Or Weeds on a verge or open space,Right of Way,B23
+Column/Post: Paintwork Damage,Street Furniture,B27
+Street Cleaning,Rubbish,B26
+Poop Scoop Bins,Dog Fouling,B6
+Broken Grit Bin,Gritting,B11
+Damage - pole leaning / equipment detached from pole/facing the wrong direction,Bus Stops Damage,B4
+"Bridge, Subway or Culvert on a public ri",Bridge/Culvert Defects,B3
+Slurry or Mud on the Highway,Street Furniture,B27
+Damage - bus stop leaning,Bus Stops Damage,B4
+Debris / Rubbish,Rubbish,B26
+Veg Impeding FW/CW,Overgrown/Fallen Veg/Trees,B17
+Directional Signs,Street Furniture,B27
+Media Enquiry,Other,B16
+Pelican/Toucan Crossings,Street Furniture,B27
+Snow and ice problem/winter salting,Gritting,B11
+Manholes,Drainage,B7
+Paved OS CP Surface Issue,Other,B16
+Single pothole (more than 30cm wide and 4cm deep),Road Surface Defects,B25
+Public Rights of Ways,Right of Way,B23
+Temporary Traffic Lights,Road Safety,B24
+Other (TfL),Other,B16
+Carriageway Manhole Covers,Drainage,B7
+Highway Schemes,Highways Enquiries,B13
+Missed bin collection,Rubbish,B26
+Unauthorised signs,Incivilities,B14
+Drainage Or Flooding on a public right of way,Drainage,B7
+Street sign,Road Safety,B24
+Tree/branch/hedge - overgrown,Overgrown/Fallen Veg/Trees,B17
+Missed Grass Cutting,Overgrown/Fallen Veg/Trees,B17
+Trade Waste Issue,Rubbish,B26
+Obstructing The Footway,Pavement /Footway Defects,B19
+Sport Area,Open Spaces/Parks,B15
+Vehicle Access,Right of Way,B23
+Dangerous structure,Dangerous Building/Structure,B5
+Sign Twisted/Misaligned,Road Safety,B24
+When Is The Next Cut Due,Overgrown/Fallen Veg/Trees,B17
+General Highways Enquiry,Highways Enquiries,B13
+Pedestrian wait button not working,Street Furniture,B27
+Roads and pavement surfaces - Overhangin,Overgrown/Fallen Veg/Trees,B17
+Damaged Telecomms cabinet,Street Furniture,B27
+Fallen or leaning tree,Overgrown/Fallen Veg/Trees,B17
+Spill - Oil/Diesel,Rubbish,B26
+Footpaths/ Rights of way (usually not ta,Right of Way,B23
+Fallen branch,Overgrown/Fallen Veg/Trees,B17
+Damage to paintwork/ column,Street Furniture,B27
+Overhanging Branches,Overgrown/Fallen Veg/Trees,B17
+Loose / Raised/Sunken,Right of Way,B23
+Business bins left out,Rubbish,B26
+Fence Damage/Missing No Hazard,Fences,B9
+Bus stop damage,Bus Stops Damage,B4
+Potholes / Highway Condition,Road Surface Defects,B25
+Request Timing Review,Road Safety,B24
+Pedestrian guard rail missing/damaged,Right of Way,B23
+Sign problem,Road Safety,B24
+Litter Bins Full/Damaged/Missing,Rubbish,B26
+Restricted Visibility,Overgrown/Fallen Veg/Trees,B17
+Wheel tracks or ruts,Open Spaces/Parks,B15
+Street light leaning,Street Lights,B28
+Litter or flytipping in a woodland,Rubbish,B26
+Trees/Hedges Overhanging Roads Or Footpa,Right of Way,B23
+Grit Bin - empty/refill,Gritting,B11
+Lamp Dim,Street Lights,B28
+Lighting,Street Lights,B28
+Temporary Traffic Signals,Road Safety,B24
+Overhanging Vegetation,Overgrown/Fallen Veg/Trees,B17
+Parking Equipment (Council Car Park),Parking,B18
+Parks Repairs,Open Spaces/Parks,B15
+Highways Drainage,Drainage,B7
+Slabs - Uneven / Damaged / Cracked,Road Surface Defects,B25
+Missing/Broken Sign on a public right of,Right of Way,B23
+Ditch Problem Hazardous,Bridge/Culvert Defects,B3
+TPO enquiry,Other,B16
+Verge cutting residential areas,Overgrown/Fallen Veg/Trees,B17
+Pedestrian railing,Right of Way,B23
+Vegetation Or Weeds on a public right of way,Right of Way,B23
+Litter Bin,Rubbish,B26
+"Damaged dyke, ditch or culvert",Bridge/Culvert Defects,B3
+Grounds Maintenance,Grounds Maintenance,B12
+Overgrown vegetation,Overgrown/Fallen Veg/Trees,B17
+Leaves/ leaf fall,Rubbish,B26
+Manhole,Drainage,B7
+Protected trees (in Conservations Areas),Other,B16
+Problem with a light not shown on map,Street Lights,B28
+Development Proposal/ advice,Other,B16
+All out,Street Lights,B28
+Street Furniture Enquiry,Street Furniture,B27
+Missed Food Waste Collection,Rubbish,B26
+Street Nameplate,Street Furniture,B27
+Other public road issue,Other,B16
+Traffic Sign obstructed (vegetation),Road Safety,B24
+Salt bin damaged,Gritting,B11
+Signal Head Failure,Road Safety,B24
+Street cleaning and litter,Street Furniture,B27
+Damaged cables,Grounds Maintenance,B12
+Graffiti / Flyposting on street light (offensive),Incivilities,B14
+Dangerous Building,Dangerous Building/Structure,B5
+Damaged structure,Other,B16
+Light On During The Day,Street Lights,B28
+Road markings faded/missing,Road Safety,B24
+Illegal Parking,Parking,B18
+General (Bridge & Struc.),Bridge/Culvert Defects,B3
+Graffiti on bridges/subways,Incivilities,B14
+Cleanliness Sub Standard,Other,B16
+Highway Condition (Assets),Road Surface Defects,B25
+Carriageway defect,Road Surface Defects,B25
+Overhanging Foliage,Overgrown/Fallen Veg/Trees,B17
+Public Tree related issue,Overgrown/Fallen Veg/Trees,B17
+Allotment issue,Open Spaces/Parks,B15
+Structure Damaged,Other,B16
+Timing of proposed works,Grounds Maintenance,B12
+Obscured by vegetation or Dirty,Right of Way,B23
+Street drainage,Drainage,B7
+General (Inv./Pro. Spec.),Other,B16
+Bin Damaged Hazard,Bin Replacement,B2
+lit bollard knocked down,Road Safety,B24
+Steps Damaged/Uneven,Right of Way,B23
+Footway or Footpath,Right of Way,B23
+Dog Bin,Bin Replacement,B2
+Manhole Cover - Damaged (rocking or noisy),Drainage,B7
+White Bar Marking,Road Safety,B24
+Bus shelters,Bus Stops Damage,B4
+Roads and Highways,Road Surface Defects,B25
+Verge cutting required,Overgrown/Fallen Veg/Trees,B17
+"Tree debris (droppings, sap or seeds)",Overgrown/Fallen Veg/Trees,B17
+Litter in the street,Rubbish,B26
+Graffiti / Flyposting (non-offensive),Incivilities,B14
+Footway Flood Hazardous,Drainage,B7
+Road works,Grounds Maintenance,B12
+Sign (lit),Road Safety,B24
+Lit Bollards (Electrical),Road Safety,B24
+Road defect,Road Surface Defects,B25
+Street,Rubbish,B26
+Street lighting,Street Lights,B28
+Recycling (household waste),Rubbish,B26
+Vehicles for sale on the public road,Other,B16
+General (Gras/Hedge/Tree),Overgrown/Fallen Veg/Trees,B17
+Defective road markings or signs,Road Safety,B24
+Litter in Parks & Open spaces,Rubbish,B26
+Road or pavement defect,Road Surface Defects,B25
+Leaning Tree,Overgrown/Fallen Veg/Trees,B17
+Highways Maintenance,Grounds Maintenance,B12
+Light in multi-storey car park,Street Lights,B28
+Illegally parked vehicle,Parking,B18
+Light on during the day,Street Lights,B28
+Traffic lights & signals,Road Safety,B24
+General (Roads & Pav.),Road Surface Defects,B25
+Street Works (Utilities),Grounds Maintenance,B12
+Highway Tree Replacement,Overgrown/Fallen Veg/Trees,B17
+Sign Missing/Knocked Down,Road Safety,B24
+Flooding of a road or pavement,Drainage,B7
+Pedestrian Barrier Issue,Right of Way,B23
+Streetlight Obscured by Veg,Street Lights,B28
+Trenches,Utility Works,B29
+Flytipping (TfL),Rubbish,B26
+Trees overhanging/obstructing the road or footpath,Overgrown/Fallen Veg/Trees,B17
+Grids and Drains,Drainage,B7
+Parking enforcement,Parking,B18
+Parks/Landscapes,Open Spaces/Parks,B15
+Light on during daylight hours,Street Lights,B28
+Dog Fouling,Dog Fouling,B6
+Street light intermittent,Street Lights,B28
+Damaged street name plates,Street Furniture,B27
+Manhole covers,Drainage,B7
+Tree obstructing street light,Overgrown/Fallen Veg/Trees,B17
+Phoenix HA,Other,B16
+Tree Branches Overhanging,Overgrown/Fallen Veg/Trees,B17
+Crossing,Street Furniture,B27
+"Public rights of way, alleyways and brid",Right of Way,B23
+Studs/Catseyes Missing/Damaged,Road Safety,B24
+Graffiti and Flyposting,Incivilities,B14
+"Fly Tipping on a road, footway, verge or",Rubbish,B26
+Noisy Ironwork,Drainage,B7
+Potholes,Road Surface Defects,B25
+Damage - other (bus stops and shelters),Bus Stops Damage,B4
+Pothole / Failed Reinstatement,Road Surface Defects,B25
+Tree is dead or dying,Overgrown/Fallen Veg/Trees,B17
+Street nameplate,Street Furniture,B27
+Lit Signs (Electrical),Other,B16
+Grass Verges & Weeds,Overgrown/Fallen Veg/Trees,B17
+Graffiti,Incivilities,B14
+Salt bin refill,Gritting,B11
+Unsecured void properties,Other,B16
+General (Traf. & Roadw.),Grounds Maintenance,B12
+Bus stops,Bus Stops Damage,B4
+Single pothole (more than 30cm wide and,Road Surface Defects,B25
+Spillage On Project Network,Rubbish,B26
+Visibility Issue,Other,B16
+Utility Issue,Utility Works,B29
+Dropped kerb - Illegal,Road Safety,B24
+Litter On Road/Street Cleaning,Rubbish,B26
+Car parks (only council run ones),Parking,B18
+Fences,Fences,B9
+Weed Growth,Overgrown/Fallen Veg/Trees,B17
+Tree Obstruction to 3rd Party,Overgrown/Fallen Veg/Trees,B17
+Trees & hedges,Overgrown/Fallen Veg/Trees,B17
+Problem with tree stumps,Overgrown/Fallen Veg/Trees,B17
+Missing,Drainage,B7
+Double Yellow Lines,Road Safety,B24
+Property Damage,Property Damage,B20
+Blocked rainwater gulleys,Drainage,B7
+Ironwork Corroded/Damaged,Drainage,B7
+Sunken Drain,Drainage,B7
+Road surface,Road Surface Defects,B25
+Bench/ memorial/ cycle hoop damaged or missing,Street Furniture,B27
+Traffic lights problem at temporary roadworks,Road Safety,B24
+Mud or Debris on the road,Rubbish,B26
+Trip hazard/uneven surface,Rubbish,B26
+Abandoned and untaxed vehicles,Abandoned Vehicles,B1
+Gullies,Drainage,B7
+Shelter needs cleaning (hazardous waste),Bus Stops Damage,B4
+Vegetation (grass/hedges/trees),Overgrown/Fallen Veg/Trees,B17
+Low branches,Overgrown/Fallen Veg/Trees,B17
+Grass and Hedges,Overgrown/Fallen Veg/Trees,B17
+Graffiti / Flyposting on stop or shelter (non-offensive),Incivilities,B14
+Ragwort,Overgrown/Fallen Veg/Trees,B17
+Fences & barriers,Fences,B9
+Livestock,Other,B16
+Lamp Flashing,Street Lights,B28
+Iluminated Bollard,Street Lights,B28
+Bin Request,Bin Replacement,B2
+Bollards,Right of Way,B23
+Floral Displays,Floral Displays,B10
+Vehicle Access (Assets),Right of Way,B23
+Damage to road,Road Surface Defects,B25
+Traffic sign,Road Safety,B24
+Abandoned Vehicles,Abandoned Vehicles,B1
+Dead animal,Environmental Health,B8
+Hoarding/ scaffold licence,Other,B16
+Council car parks,Parking,B18
+Grass Cutting,Overgrown/Fallen Veg/Trees,B17
+Leafing,Rubbish,B26
+Dead animals,Environmental Health,B8
+Illum. Sign Minor Damage,Road Safety,B24
+General Maintenance and pruning,Highways Enquiries,B13
+Current Roadworks,Grounds Maintenance,B12
+Wires exposed/Door off,Other,B16
+Street weeds,Overgrown/Fallen Veg/Trees,B17
+Traffic light / crossing - timing issues,Road Safety,B24
+Overgrown trees,Overgrown/Fallen Veg/Trees,B17
+Hedge problem,Overgrown/Fallen Veg/Trees,B17
+Street lighting (on adopted highways),Street Lights,B28
+Drains,Drainage,B7
+Fly Posting,Rubbish,B26
+Tree,Overgrown/Fallen Veg/Trees,B17
+Graffiti On Council Property,Incivilities,B14
+Pothole (Council Car Park),Road Surface Defects,B25
+Fly Tipping on a public right of way,Rubbish,B26
+Mud and Debris,Rubbish,B26
+Passage-Obstructed/Overgrown,Overgrown/Fallen Veg/Trees,B17
+Lamp Obscured,Street Lights,B28
+Problem with fungi,Overgrown/Fallen Veg/Trees,B17
+Fire hydrants,Other,B16
+Grass needs cutting,Overgrown/Fallen Veg/Trees,B17
+Maintenance / Repairs Issue,Highways Enquiries,B13
+Soft Verge Damaged/Overrun,Road Safety,B24
+Overflowing Street Litter Bin,Rubbish,B26
+Zebra crossing light,Road Safety,B24
+Debris/Spillage,Rubbish,B26
+Damaged / Missing / Facing Wrong Way,Road Safety,B24
+Helpfulness of staff,Other,B16
+Manhole/drain cover on pavement/verge,Drainage,B7
+Tree/Branch Fallen Non Hazard,Overgrown/Fallen Veg/Trees,B17
+Roads/highways,Highways Enquiries,B13
+Tree Or Shrub on a verge or open space,Open Spaces/Parks,B15
+Parking signs,Parking,B18
+Flooding in the road,Drainage,B7
+Street furniture,Street Furniture,B27
+Drainage,Drainage,B7
+Bridge or Structure,Bridge/Culvert Defects,B3
+Damage to pedestrian guardrail,Road Safety,B24
+Works not complete,Grounds Maintenance,B12
+Parks repairs,Open Spaces/Parks,B15
+Faulty street sign,Road Safety,B24
+Winter Maintenance,Grounds Maintenance,B12
+Signal Failure all out,Road Safety,B24
+Traffic light / crossing - button/beep/lamp,Road Safety,B24
+Countryside Paths / Public Rights of Way,Right of Way,B23
+Noisy Column,Street Lights,B28
+Ice & snow,Gritting,B11
+"Bridge, Subway or Culvert on a road or footway",Bridge/Culvert Defects,B3
+Parks and open spaces,Open Spaces/Parks,B15
+Broken Flags/Kerbs,Other,B16
+Obstruction on a public right of way,Right of Way,B23
+Flooding,Drainage,B7
+Abandoned vehicles,Abandoned Vehicles,B1
+Street light,Street Lights,B28
+Hedge Oversized,Overgrown/Fallen Veg/Trees,B17
+Lines and Markings (Council Car Park),Road Safety,B24
+Trees or shrubs causing obstruction of highway,Overgrown/Fallen Veg/Trees,B17
+Gully,Drainage,B7
+Damage - seating in shelter,Bus Stops Damage,B4
+Obstructing The Verge,Pavement /Footway Defects,B19
+C.C.T.V Faults,Other,B16
+Epicormic Tree Growth,Overgrown/Fallen Veg/Trees,B17
+Damaged/missing boundary markers,Road Surface Defects,B25
+Trees and woodland,Overgrown/Fallen Veg/Trees,B17
+Restricted Visibility / Overgrown / Overhanging,Overgrown/Fallen Veg/Trees,B17
+Trees/Hedges Overhanging Roads Or Footpaths,Overgrown/Fallen Veg/Trees,B17
+Manhole Cover - Missing,Drainage,B7
+Sign Or Marking,Road Safety,B24
+Other,Other,B16
+Ice,Gritting,B11
+Fly-posting,Incivilities,B14
+Carriageway Condition,Road Surface Defects,B25
+Damage - general (Trees),Overgrown/Fallen Veg/Trees,B17
+Traffic Lights (temporary only),Road Safety,B24
+Tree Danger/Obstruction on PN,Overgrown/Fallen Veg/Trees,B17
+Gates/Stiles on a public right of way,Right of Way,B23
+Dumped rubbish,Rubbish,B26
+Crossing running with no pedestrians,Road Safety,B24
+Flooding/drainage,Drainage,B7
+Barrier/Bollard on a public right of way,Right of Way,B23
+Park / open space,Open Spaces/Parks,B15
+Untaxed vehicle,Other,B16
+Fallen Tree,Overgrown/Fallen Veg/Trees,B17
+Street cleaning,Rubbish,B26
+Pavement/footpath issue,Pavement /Footway Defects,B19
+Weed control,Overgrown/Fallen Veg/Trees,B17
+Broken / Missing,Drainage,B7
+Footway / carriageway,Right of Way,B23
+Illegal advertising,Incivilities,B14
+Permanent,Road Safety,B24
+Zebra crossing,Road Safety,B24
+Obstruction on road or pavement,Right of Way,B23
+Public tree requires pruning,Overgrown/Fallen Veg/Trees,B17
+Flooding of a property,Drainage,B7
+Tree/branch - fallen,Overgrown/Fallen Veg/Trees,B17
+Barriers,Street Furniture,B27
+Fencing/Walls,Dangerous Building/Structure,B5
+Parking/ congestion,Parking,B18
+Tree blocking daylight,Overgrown/Fallen Veg/Trees,B17
+Graffiti (Offensive),Incivilities,B14
+Dog Waste Bin,Bin Replacement,B2
+Surface Defect on a road or footway,Pavement /Footway Defects,B19
+Trees (Urban Areas),Overgrown/Fallen Veg/Trees,B17
+Seats and benches,Bus Stops Damage,B4
+Traffic lights,Road Safety,B24
+Culvert,Bridge/Culvert Defects,B3
+Fly tipping - Enforcement Request,Rubbish,B26
+Parks and Greenspace,Open Spaces/Parks,B15
+Street Cleansing,Street Furniture,B27
+Vehicle Barrier Issue,Right of Way,B23
+Hedges / trees on rights of way,Right of Way,B23
+Gully or manhole defect,Drainage,B7
+"Street lighting (parks, car parks, open spaces and footpaths)",Street Lights,B28
+Missed Cut,Overgrown/Fallen Veg/Trees,B17
+General (Flooding/Drains),Drainage,B7
+Traffic Lights,Road Safety,B24
+Japanese knotweed / ragwort,Overgrown/Fallen Veg/Trees,B17
+Debris & spillage,Rubbish,B26
+Street Light Wiring Exposed,Street Lights,B28
+Abandoned Santander Cycle,Abandoned Vehicles,B1
+Road Markings/Studs Non-Comp,Road Safety,B24
+Trip Hazard,Rubbish,B26
+Noise or Vibration,Road Surface Defects,B25
+Emergency - Tree (Other),Overgrown/Fallen Veg/Trees,B17
+Shrubs and Hedge,Overgrown/Fallen Veg/Trees,B17
+Dedication Plaque,Other,B16
+Shopping Trolley,Incivilities,B14
+Workmanship,Other,B16
+Other Grass Cutting Issues,Overgrown/Fallen Veg/Trees,B17
+Garage areas,Rubbish,B26
+Tree Or Shrub on a public right of way,Right of Way,B23
+Flyposting (not by roadside),Incivilities,B14
+Obstructing The Road,Pavement /Footway Defects,B19
+Street Nameplate Dam./Miss.,Street Furniture,B27
+Graffiti / Flyposting on traffic light (non-offensive),Incivilities,B14
+Dog waste bin,Bin Replacement,B2
+Road signage,Road Safety,B24
+Dead animal in the carriageway or footway,Environmental Health,B8
+"Vandalism/disturbance (example, cones moved from works)",Other,B16
+Traffic lights & crossings problems with timings,Road Safety,B24
+Sign/Waymarking - Damaged/Missing,Road Safety,B24
+Rotten timber handrails or decking,Right of Way,B23
+Pavement and road repairs,Road Surface Defects,B25
+Litter Bin on a verge or open space,Rubbish,B26
+Damaged or missing cover,Grounds Maintenance,B12
+Light in park or open space,Street Lights,B28
+Overhanging Trees,Overgrown/Fallen Veg/Trees,B17
+Damaged Kerb/Aco/Channel Block,Grounds Maintenance,B12
+Graffiti on Council Property,Incivilities,B14
+Road obstruction,Rubbish,B26
+Planter Damage Hazard,Overgrown/Fallen Veg/Trees,B17
+Obstruction on Highways / Sight Lines,Right of Way,B23
+Utility cabinets,Utility Works,B29
+Obstruction (Not Vegetation),Right of Way,B23
+Damaged or missing utility cover,Grounds Maintenance,B12
+Carriageway Defect,Road Surface Defects,B25
+Gully Catch Soakwy: Bad Smell,Drainage,B7
+Blocked drain / Flooding,Drainage,B7
+Animal Nuisance,Environmental Health,B8
+Blocked Ditch Causing Flooding,Drainage,B7
+Trees on and near highways and footpaths,Right of Way,B23
+Pothole / Surface Defect,Road Surface Defects,B25
+Signals stuck on red,Road Safety,B24
+Bollard Out Of Light,Street Furniture,B27
+Blocked Ditch,Drainage,B7
+Grass/Weeds,Overgrown/Fallen Veg/Trees,B17
+Sign Dirty/Degraded,Road Safety,B24
+Icy Footpath,Gritting,B11
+Obstruction,Right of Way,B23
+Pothole on road/cycleway,Road Surface Defects,B25
+Streetspace Suggestions and Feedback,Other,B16
+Bridges/Subways,Bridge/Culvert Defects,B3
+Demo,Other,B16
+Bus Shelters,Bus Stops Damage,B4
+Bollard,Street Furniture,B27
+Empty Bin,Bin Replacement,B2
+Damaged Speed Humps,Road Surface Defects,B25
+Subway light faulty,Bridge/Culvert Defects,B3
+Long Grass NonHazard,Overgrown/Fallen Veg/Trees,B17
+Fence Damaged/Missing Hazard,Fences,B9
+Hedge Untrimmed,Overgrown/Fallen Veg/Trees,B17
+Street needs gritting,Gritting,B11
+Broken manhole cover,Drainage,B7
+Vandalism,Other,B16
+Tree or Shrub on a verge or open space,Open Spaces/Parks,B15
+Flytipping,Rubbish,B26
+Oil spillage,Rubbish,B26
+Lighting enquiry,Street Lights,B28
+Faded road markings,Road Safety,B24
+General (Cleanliness),Other,B16
+Other street furniture,Street Furniture,B27
+Trees and Woodland Maintenance,Overgrown/Fallen Veg/Trees,B17
+Street Lights (Electrical),Street Lights,B28
+Not coming on/ faulty,Street Lights,B28
+Temp Roadwork Traffic Signals,Grounds Maintenance,B12
+Bin Damaged NonHazard,Bin Replacement,B2
+Road Markings,Road Safety,B24
+Lamp out (traffic lights),Road Safety,B24
+Signal head turned around,Road Safety,B24
+Pothole In CW/FW,Road Surface Defects,B25
+Trees (along Public Rights of Way),Right of Way,B23
+"Fly Tipping on a road, footway, verge or open space",Rubbish,B26
+Damaged/ cracked drain or man hole cover,Drainage,B7
+"Damaged, dirty, or missing bin",Bin Replacement,B2
+Traffic Management,Road Safety,B24
+Tree obscuring streetlight,Overgrown/Fallen Veg/Trees,B17
+Sign or road marking missing following works,Road Safety,B24
+Noxious/Injurious Weed Hazard,Overgrown/Fallen Veg/Trees,B17
+Off Street Parking,Parking,B18
+Missing Kerb Stones,Other,B16
+Trees or Vegetation,Overgrown/Fallen Veg/Trees,B17
+Parking on street,Parking,B18
+Vegetation or Weeds on a verge or open s,Right of Way,B23
+Bollards or railings,Road Safety,B24
+Road Works,Grounds Maintenance,B12
+Sign light not working,Road Safety,B24
+Graffiti or Flyposting (not offensive),Incivilities,B14
+Pictorial Meadow Pruning,Overgrown/Fallen Veg/Trees,B17
+Road or pavement obstruction,Road Surface Defects,B25
+Other public drainage issue,Drainage,B7
+Roads and pavement surfaces - Overhanging vegetation,Overgrown/Fallen Veg/Trees,B17
+Signs and bollards,Road Safety,B24
+Verges - Damaged by Vehicles,Road Safety,B24
+Dead Animals,Environmental Health,B8
+Bollard light not working,Road Safety,B24
+Shelter/Seat,Bus Stops Damage,B4
+Street Lights,Street Lights,B28
+Highways Obstructions,Right of Way,B23
+Works notification letter/leaflet,Grounds Maintenance,B12
+Complaint,Other,B16
+Sign (unlit),Road Safety,B24
+Bench Damaged NonHazard,Street Furniture,B27
+Benches / bicycle racks,Street Furniture,B27
+Bus stop/shelter issue,Bus Stops Damage,B4
+Overhanging vegetation from private land,Overgrown/Fallen Veg/Trees,B17
+Hazardous spillage on road,Rubbish,B26
+Utility equipment,Utility Works,B29
+Miscellaneous,Other,B16
+Highways - Emergency,Road Surface Defects,B25
+Restrict off-road access,Right of Way,B23
+Damaged/Loose,Road Surface Defects,B25
+Safety fence or barrier,Road Safety,B24
+Alleyway,Other,B16
+Gully/Drainage,Drainage,B7
+Bus Stop Sign Missing/Damaged,Bus Stops Damage,B4
+Removal of Debris,Rubbish,B26
+Request for tree to be planted,Open Spaces/Parks,B15
+Property damage,Property Damage,B20
+Works crew - way of working,Grounds Maintenance,B12
+Blocked drainage gully,Drainage,B7
+Flickering Light,Street Lights,B28
+Access Arrangements,Right of Way,B23
+Lights out in Pedestrian Subway,Street Lights,B28
+Parking Bays,Parking,B18
+Weed spraying,Overgrown/Fallen Veg/Trees,B17
+Damaged/missing cats eye,Road Surface Defects,B25
+Missing drain or man hole cover,Drainage,B7
+Damage - wires exposed on bus shelter,Bus Stops Damage,B4
+Accidents,Other,B16
+Graffiti on council buildings,Incivilities,B14
+Parking within pay and display car parks,Parking,B18
+Blocked drainage gullies,Drainage,B7
+"Report ice, snow, and frost on roads and footpaths",Gritting,B11
+Street works and obstructions,Grounds Maintenance,B12
+Graffiti/Flyposting: Non-Offen,Incivilities,B14
+Uneven footway,Right of Way,B23
+Other water on the Highway,Drainage,B7
+Park / Open space,Open Spaces/Parks,B15
+Request refill of grit bin,Gritting,B11
+unlit bollard knockdown/ missing (non hazardous),Street Furniture,B27
+Bad smell,Other,B16
+General (Lines & Signs),Other,B16
+Illegal Street Trading,Other,B16
+Bollard - lit,Street Furniture,B27
+Dead Animal,Environmental Health,B8
+Shelter Damaged,Bus Stops Damage,B4
+Bin bags/ Cardboard boxes,Rubbish,B26
+Footpaths / Carriageway,Right of Way,B23
+Highway Drainage,Drainage,B7
+Ironwork Collapsed,Drainage,B7
+Single Light out (street light),Street Lights,B28
+Lamp Out,Street Lights,B28
+Footpath / pavement problem,Road Surface Defects,B25
+Pavement Defect (uneven surface / cracked paving slab),Right of Way,B23
+Skip problem,Rubbish,B26
+Street light not working,Street Lights,B28
+Pothole,Road Surface Defects,B25
+Food Safety - Pest Control,Other,B16
+Pothole on a road or footway,Road Surface Defects,B25
+Skips,Rubbish,B26
+Shelter needs cleaning (not including litter),Bus Stops Damage,B4
+Pole/signal knocked down,Road Safety,B24
+Trees (on sites owned by Three Rivers District Council),Overgrown/Fallen Veg/Trees,B17
+Mud on Road,Rubbish,B26
+Blocked - flooding private property,Drainage,B7
+Carriageway,Road Surface Defects,B25
+Sign issue,Street Furniture,B27
+Bin bags,Rubbish,B26
+Permanent Traffic Signals/Road Crossings,Road Safety,B24
+Timing issue,Road Safety,B24
+Street nameplates,Street Furniture,B27
+Utlility Covers,Utility Works,B29
+Road Signage,Road Safety,B24
+Street Cleaning Enquiry,Street Furniture,B27
+Pavements/footpaths,Pavement /Footway Defects,B19
+"Street lighting (parks, car parks, open",Street Lights,B28
+Gritting,Gritting,B11
+Subway light,Bridge/Culvert Defects,B3
+Overhanging tree/foliage/bush,Overgrown/Fallen Veg/Trees,B17
+Low hanging branches and general maintenance,Right of Way,B23
+Tree Requires Pruning,Overgrown/Fallen Veg/Trees,B17
+Flooding from a blocked drain,Drainage,B7
+Graffiti / Flyposting on street light (non-offensive),Incivilities,B14
+Permanent Traffic Lights,Street Furniture,B27
+Debris/spillage,Rubbish,B26
+Bus Stops,Bus Stops Damage,B4
+Hedge/Tree Maintenance,Overgrown/Fallen Veg/Trees,B17
+Traffic Signals Not Working,Road Safety,B24
+Tree matters / Preservation Orders,Overgrown/Fallen Veg/Trees,B17
+Engine idling,Other,B16
+Freedom of information,Other,B16
+Damaged Control box,Grounds Maintenance,B12
+Flooding on a road or footway,Drainage,B7
+Unauthorised Attachment,Other,B16
+Parking queries/reports,Parking,B18
+Light in outside car park,Street Lights,B28
+Disagree/ agree with the completed works installed,Other,B16
+"Damaged road edge, encroaches more than 100mm",Road Surface Defects,B25
+Dying or dangerous tree,Overgrown/Fallen Veg/Trees,B17
+Street Name Plate,Street Furniture,B27
+Surface Defect on a public right of way,Road Surface Defects,B25
+Traffic light,Road Safety,B24
+Signs/Cones/Bollards/Barriers,Road Safety,B24
+Bench/cycle rack/litter bin/planter,Street Furniture,B27
+Road works problem,Grounds Maintenance,B12
+Broken Drain Cover,Drainage,B7
+Dog and litter bins,Bin Replacement,B2
+Overhanging branches,Overgrown/Fallen Veg/Trees,B17
+Light Out,Street Lights,B28
+Bad Parking,Parking,B18
+Skip on road/verge,Road Safety,B24
+Lights too bright/ dull,Street Lights,B28
+Tree Dead/Dying/Diseased,Overgrown/Fallen Veg/Trees,B17
+Pavement Overcrowding,Pavement /Footway Defects,B19
+Trees and plants,Overgrown/Fallen Veg/Trees,B17
+Offensive Graffiti on Property,Incivilities,B14
+Fault with temporary traffic signals,Road Safety,B24
+Bollards (unlit),Road Safety,B24
+Leaves,Rubbish,B26
